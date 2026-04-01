@@ -3,8 +3,6 @@
 http://lobby.peaktv.name/balancer/bigteisti1/perviy_orig/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Россия | Russia" tvg-id="elb2384" tvg-name="Первый канал HD +4" tvg-logo="http://peaktv.su/img/logos/efir/pervy-pl4.png" catchup="flussonic" catchup-days="3", Первый канал HD +4
 http://lobby.peaktv.name/balancer/bigteisti19/08946901/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
-#EXTINF:-1 group-title="Россия | Russia" tvg-id="elb2372" tvg-name="Первый канал СНГ" tvg-logo="http://peaktv.su/img/logos/efir/pervy-kanal-csi.png" catchup="flussonic" catchup-days="3", Первый канал СНГ
-http://lobby.peaktv.name/balancer/bigteisti1/europeperviy/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Россия | Russia" tvg-id="elb364" tvg-name="Россия 1 FHD" tvg-logo="http://peaktv.su/img/logos/efir/rossia1.png" catchup="flussonic" catchup-days="3", Россия 1 FHD
 http://lobby.peaktv.name/balancer/bigteisti8/russia1_orig/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Россия | Russia" tvg-id="elb2573" tvg-name="Россия 1 HD +6" tvg-logo="http://peaktv.su/img/logos/efir/rossia1-pl6.png" catchup="flussonic" catchup-days="3", Россия 1 HD +6
