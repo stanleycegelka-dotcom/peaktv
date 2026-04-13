@@ -261,7 +261,7 @@ http://lobby.peaktv.name/balancer/bigteisti6/rzhd_tv/ZGVuaXMxMjIzfHxSR1Z1YVhOcll
 http://lobby.peaktv.name/balancer/bigteisti19/08946911/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb106" tvg-name="RTД HD" tvg-logo="http://peaktv.su/img/logos/poznanie/russia-today.png" catchup="flussonic" catchup-days="3", RTД HD
 http://lobby.peaktv.name/balancer/bigteisti8/RTD_RU/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
-#EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb1596" tvg-name="Точка. РФ HD" tvg-logo="https://i.peaktv.pro/img/logos/poznanie/hdl.png" catchup="flussonic" catchup-days="3", Точка. РФ HD
+#EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb1596" tvg-name="Точка.РФ HD" tvg-logo="https://i.peaktv.pro/img/logos/poznanie/hdl.png" catchup="flussonic" catchup-days="3", Точка. РФ HD
 http://lobby.peaktv.name/balancer/bigteisti2/HDL/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb44" tvg-name="CGTN Русский" tvg-logo="http://peaktv.su/img/logos/poznanie/cctv-ru.png" catchup="flussonic" catchup-days="3", CGTN Русский
 http://lobby.peaktv.name/balancer/bigteisti10/CGTNRUS/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
@@ -285,7 +285,7 @@ http://lobby.peaktv.name/balancer/bigteisti3/smartzone/ZGVuaXMxMjIzfHxSR1Z1YVhOc
 http://lobby.peaktv.name/balancer/bigteisti6/nAdezhdA/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb429" tvg-name="Усадьба" tvg-logo="http://peaktv.su/img/logos/poznanie/usadba.png" catchup="flussonic" catchup-days="3", Усадьба
 http://lobby.peaktv.name/balancer/bigteisti2/dXNhYWFkYmFhYQ/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
-#EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb2948" tvg-name="Тайна" tvg-logo="http://peaktv.su/img/logos/poznanie/tayna.png" catchup="flussonic" catchup-days="3", Тайна
+#EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb401" tvg-name="Тайна" tvg-logo="http://peaktv.su/img/logos/poznanie/tayna.png" catchup="flussonic" catchup-days="3", Тайна
 http://lobby.peaktv.name/balancer/bigteisti2/dGFpbmE/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb204" tvg-name="Живая планета HD" tvg-logo="http://peaktv.su/img/logos/poznanie/zhivaya-planeta.png" catchup="flussonic" catchup-days="3", Живая планета HD
 http://lobby.peaktv.name/balancer/bigteisti1/JIVAYAPLANETA/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
@@ -349,7 +349,7 @@ http://lobby.peaktv.name/balancer/bigteisti13/SETANTA_EVENT_2/ZGVuaXMxMjIzfHxSR1
 http://lobby.peaktv.name/balancer/bigteisti10/SOVSEC/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb192" tvg-name="Доктор" tvg-logo="http://peaktv.su/img/logos/poznanie/doktor.png" catchup="flussonic" catchup-days="3", Доктор
 http://lobby.peaktv.name/balancer/bigteisti1/doktor/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
-#EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb2231" tvg-name="ВолгВест" tvg-logo="http://peaktv.su/img/logos/region/volgvest.png", ВолгВест
+#EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb18" tvg-name="ВолгВест" tvg-logo="http://peaktv.su/img/logos/region/volgvest.png", ВолгВест
 http://lobby.peaktv.name/balancer/bigteisti9/08936905/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кино | Cinema" tvg-id="elb291" tvg-name="Мосфильм: золотая коллекция HD" tvg-logo="http://peaktv.su/img/logos/films/mosfilm.png" catchup="flussonic" catchup-days="3", Мосфильм: золотая коллекция HD
 http://lobby.peaktv.name/balancer/bigteisti2/mosfilmhd/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
@@ -425,7 +425,7 @@ http://lobby.peaktv.name/balancer/bigteisti9/shok/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURX
 http://lobby.peaktv.name/balancer/bigteisti10/DUSHEVNOE/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кино | Cinema" tvg-id="elb2901" tvg-name="Страшное HD" tvg-logo="http://peaktv.su/img/logos/films/strashnoe-hd.png" catchup="flussonic" catchup-days="3", Страшное HD
 http://lobby.peaktv.name/balancer/bigteisti9/STRASHNOE/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
-#EXTINF:-1 group-title="Кино | Cinema" tvg-id="elb246" tvg-name="Кинохит HD" tvg-logo="http://peaktv.su/img/logos/films/kinoxit.png" catchup="flussonic" catchup-days="3", Кинохит HD
+#EXTINF:-1 group-title="Кино | Cinema" tvg-id="elb246" tvg-name="Кинохит FHD" tvg-logo="http://peaktv.su/img/logos/films/kinoxit.png" catchup="flussonic" catchup-days="3", Кинохит FHD
 http://lobby.peaktv.name/balancer/bigteisti2/kinohit/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кино | Cinema" tvg-id="elb238" tvg-name="Кинопремьера HD" tvg-logo="http://peaktv.su/img/logos/films/kinopremiera.png" catchup="flussonic" catchup-days="3", Кинопремьера HD
 http://lobby.peaktv.name/balancer/bigteisti9/KINOPREMIERA/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
@@ -907,7 +907,7 @@ http://lobby.peaktv.name/balancer/bigteisti6/08936910/ZGVuaXMxMjIzfHxSR1Z1YVhOcl
 http://lobby.peaktv.name/balancer/bigteisti6/08936911/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb3376" tvg-name="Военное кино" tvg-logo="http://peaktv.su/img/logos/kinoInt/Voennoe_Kino.png" catchup="flussonic" catchup-days="3", Военное кино
 http://lobby.peaktv.name/balancer/bigteisti6/08936912/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
-#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb3134" tvg-name="Твоё ТВ HD" tvg-logo="http://peaktv.su/img/logos/kinoInt/tvoetvhd.png" catchup="flussonic" catchup-days="3", Твоё ТВ HD
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb3129" tvg-name="Твоё ТВ HD" tvg-logo="http://peaktv.su/img/logos/kinoInt/tvoetvhd.png" catchup="flussonic" catchup-days="3", Твоё ТВ HD
 http://lobby.peaktv.name/balancer/bigteisti6/tvoe_tv/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-name="First TV Action HD", First TV Action HD
 http://lobby.peaktv.name/balancer/bigteisti20/09946907/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
