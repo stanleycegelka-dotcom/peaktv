@@ -425,7 +425,7 @@ http://lobby.peaktv.name/balancer/bigteisti9/shok/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURX
 http://lobby.peaktv.name/balancer/bigteisti10/DUSHEVNOE/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кино | Cinema" tvg-id="elb2901" tvg-name="Страшное HD" tvg-logo="http://peaktv.su/img/logos/films/strashnoe-hd.png" catchup="flussonic" catchup-days="3", Страшное HD
 http://lobby.peaktv.name/balancer/bigteisti9/STRASHNOE/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
-#EXTINF:-1 group-title="Кино | Cinema" tvg-id="elb246" tvg-name="Кинохит FHD" tvg-logo="http://peaktv.su/img/logos/films/kinoxit.png" catchup="flussonic" catchup-days="3", Кинохит FHD
+#EXTINF:-1 group-title="Кино | Cinema" tvg-id="elb246" tvg-name="Кинохит HD" tvg-logo="http://peaktv.su/img/logos/films/kinoxit.png" catchup="flussonic" catchup-days="3", Кинохит HD
 http://lobby.peaktv.name/balancer/bigteisti2/kinohit/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кино | Cinema" tvg-id="elb238" tvg-name="Кинопремьера HD" tvg-logo="http://peaktv.su/img/logos/films/kinopremiera.png" catchup="flussonic" catchup-days="3", Кинопремьера HD
 http://lobby.peaktv.name/balancer/bigteisti9/KINOPREMIERA/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
