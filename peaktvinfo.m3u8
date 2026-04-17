@@ -9,72 +9,86 @@ http://lobby.peaktv.name/balancer/bigteisti8/russia1_orig/ZGVuaXMxMjIzfHxSR1Z1YV
 http://lobby.peaktv.name/balancer/bigteisti8/russia1_hd_pl4/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Россия | Russia" tvg-id="elb319" tvg-name="НТВ FHD" tvg-logo="http://peaktv.su/img/logos/efir/ntv-white.png" catchup="flussonic" catchup-days="3", НТВ FHD
 http://lobby.peaktv.name/balancer/bigteisti20/08946978/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
-#EXTINF:-1 group-title="Россия | Russia" tvg-id="elb359" tvg-name="РЕН ТВ FHD" tvg-logo="http://peaktv.su/img/logos/efir/rentv.png" catchup="flussonic" catchup-days="3", РЕН ТВ FHD
-http://lobby.peaktv.name/balancer/bigteisti20/08946979/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
-#EXTINF:-1 group-title="Россия | Russia" tvg-id="elb395" tvg-name="СТС HD" tvg-logo="http://peaktv.su/img/logos/show/sts.png" catchup="flussonic" catchup-days="3", СТС HD
-http://lobby.peaktv.name/balancer/bigteisti8/STS_HD/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Россия | Russia" tvg-id="elb2289" tvg-name="НТВ HD +4" tvg-logo="http://peaktv.su/img/logos/efir/ntv-pl4.png" catchup="flussonic" catchup-days="3", НТВ HD +4
+http://lobby.peaktv.name/balancer/bigteisti8/08946916/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Россия | Russia" tvg-id="elb419" tvg-name="ТНТ FHD" tvg-logo="http://peaktv.su/img/logos/show/tnt.png" catchup="flussonic" catchup-days="3", ТНТ FHD
 http://lobby.peaktv.name/balancer/bigteisti20/08946980/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Россия | Russia" tvg-id="elb3006" tvg-name="ТНТ4 HD" tvg-logo="http://peaktv.su/img/logos/federal/TNT4200.png" catchup="flussonic" catchup-days="3", ТНТ4 HD
 http://lobby.peaktv.name/balancer/bigteisti9/tnt4/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
-#EXTINF:-1 group-title="Россия | Russia" tvg-id="elb406" tvg-name="ТВЦ HD" tvg-logo="http://peaktv.su/img/logos/efir/tvcentr.png" catchup="flussonic" catchup-days="3", ТВЦ HD
-http://lobby.peaktv.name/balancer/bigteisti13/TVC/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Россия | Russia" tvg-id="elb395" tvg-name="СТС FHD" tvg-logo="http://peaktv.su/img/logos/show/sts.png" catchup="flussonic" catchup-days="3", СТС FHD
+http://lobby.peaktv.name/balancer/bigteisti19/09946969/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Россия | Russia" tvg-id="elb359" tvg-name="РЕН ТВ FHD" tvg-logo="http://peaktv.su/img/logos/efir/rentv.png" catchup="flussonic" catchup-days="3", РЕН ТВ FHD
+http://lobby.peaktv.name/balancer/bigteisti20/08946979/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Россия | Russia" tvg-id="elb406" tvg-name="ТВЦ FHD" tvg-logo="http://peaktv.su/img/logos/efir/tvcentr.png" catchup="flussonic" catchup-days="3", ТВЦ FHD
+http://lobby.peaktv.name/balancer/bigteisti19/09946965/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Россия | Russia" tvg-id="elb210" tvg-name="Звезда HD" tvg-logo="http://peaktv.su/img/logos/efir/zvezda.png" catchup="flussonic" catchup-days="3", Звезда HD
 http://lobby.peaktv.name/balancer/bigteisti8/ZVEZDA/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Россия | Russia" tvg-id="elb211" tvg-name="Звезда Плюс HD" tvg-logo="http://peaktv.su/img/logos/efir/zvezda-plus.png" catchup="flussonic" catchup-days="3", Звезда Плюс HD
 http://lobby.peaktv.name/balancer/bigteisti9/zvezdaplus/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Россия | Russia" tvg-id="elb346" tvg-name="Пятый канал HD" tvg-logo="http://peaktv.su/img/logos/efir/5kanal-ru.png" catchup="flussonic" catchup-days="3", Пятый канал HD
 http://lobby.peaktv.name/balancer/bigteisti2/PIATIY/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
-#EXTINF:-1 group-title="Россия | Russia" tvg-id="elb408" tvg-name="ТВ3 HD" tvg-logo="http://peaktv.su/img/logos/federal/tv3-ru.png" catchup="flussonic" catchup-days="3", ТВ3 HD
-http://lobby.peaktv.name/balancer/bigteisti8/TB3/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
-#EXTINF:-1 group-title="Россия | Russia" tvg-id="elb282" tvg-name="Мир HD" tvg-logo="http://peaktv.su/img/logos/efir/mir.png" catchup="flussonic" catchup-days="3", Мир HD
-http://lobby.peaktv.name/balancer/bigteisti6/mir_HD/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
-#EXTINF:-1 group-title="Россия | Russia" tvg-id="elb352" tvg-name="Пятница! HD" tvg-logo="http://peaktv.su/img/logos/show/pyatnica.png" catchup="flussonic" catchup-days="3", Пятница! HD
-http://lobby.peaktv.name/balancer/bigteisti10/FRIDAY/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
-#EXTINF:-1 group-title="Россия | Russia" tvg-id="elb398" tvg-name="Суббота! HD" tvg-logo="http://peaktv.su/img/logos/films/subbota.png" catchup="flussonic" catchup-days="3", Суббота! HD
-http://lobby.peaktv.name/balancer/bigteisti9/SUBBOTA/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
-#EXTINF:-1 group-title="Россия | Russia" tvg-id="elb195" tvg-name="Домашний HD" tvg-logo="http://peaktv.su/img/logos/efir/domashny.png" catchup="flussonic" catchup-days="3", Домашний HD
-http://lobby.peaktv.name/balancer/bigteisti10/DOM/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Россия | Russia" tvg-id="elb408" tvg-name="ТВ3 FHD" tvg-logo="http://peaktv.su/img/logos/federal/tv3-ru.png" catchup="flussonic" catchup-days="3", ТВ3 FHD
+http://lobby.peaktv.name/balancer/bigteisti19/09946970/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Россия | Russia" tvg-id="elb282" tvg-name="Мир FHD" tvg-logo="http://peaktv.su/img/logos/efir/mir.png" catchup="flussonic" catchup-days="3", Мир FHD
+http://lobby.peaktv.name/balancer/bigteisti19/09946966/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Россия | Russia" tvg-id="elb352" tvg-name="Пятница! FHD" tvg-logo="http://peaktv.su/img/logos/show/pyatnica.png" catchup="flussonic" catchup-days="3", Пятница! FHD
+http://lobby.peaktv.name/balancer/bigteisti19/09946968/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Россия | Russia" tvg-id="elb398" tvg-name="Суббота! FHD" tvg-logo="http://peaktv.su/img/logos/films/subbota.png" catchup="flussonic" catchup-days="3", Суббота! FHD
+http://lobby.peaktv.name/balancer/bigteisti19/09946967/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Россия | Russia" tvg-id="elb195" tvg-name="Домашний FHD" tvg-logo="http://peaktv.su/img/logos/efir/domashny.png" catchup="flussonic" catchup-days="3", Домашний FHD
+http://lobby.peaktv.name/balancer/bigteisti19/09946964/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Россия | Russia" tvg-id="elb2360" tvg-name="Перец INT" tvg-logo="http://peaktv.su/img/logos/show/perec.png", Перец INT
 http://lobby.peaktv.name/balancer/bigteisti3/tvperecint/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
-#EXTINF:-1 group-title="Россия | Russia" tvg-id="elb329" tvg-name="ОТР" tvg-logo="http://peaktv.su/img/logos/efir/otr.png" catchup="flussonic" catchup-days="3", ОТР
-http://lobby.peaktv.name/balancer/bigteisti2/OTR/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Россия | Russia" tvg-id="elb438" tvg-name="Че!" tvg-logo="http://peaktv.su/img/logos/federal/che.png" catchup="flussonic" catchup-days="3", Че!
 http://lobby.peaktv.name/balancer/bigteisti2/CHE/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Россия | Russia" tvg-id="elb329" tvg-name="ОТР" tvg-logo="http://peaktv.su/img/logos/efir/otr.png" catchup="flussonic" catchup-days="3", ОТР
+http://lobby.peaktv.name/balancer/bigteisti2/OTR/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Россия | Russia" tvg-id="elb443" tvg-name="Ю" tvg-logo="http://peaktv.su/img/logos/efir/yu.png" catchup="flussonic" catchup-days="3", Ю
 http://lobby.peaktv.name/balancer/bigteisti6/yu/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Россия | Russia" tvg-id="elb366" tvg-name="Россия К" tvg-logo="http://peaktv.su/img/logos/federal/kultura.png" catchup="flussonic" catchup-days="3", Россия К
 http://lobby.peaktv.name/balancer/bigteisti6/rossiya_k/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Россия | Russia" tvg-id="elb377" tvg-name="Санкт-Петербург HD" tvg-logo="http://peaktv.su/img/logos/efir/sankt-peterburg.png" catchup="flussonic" catchup-days="3", Санкт-Петербург HD
 http://lobby.peaktv.name/balancer/bigteisti6/sAnkt-peterburg_HD/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Россия | Russia" tvg-id="elb389" tvg-name="Союз" tvg-logo="http://peaktv.su/img/logos/poznanie/soyuz.png", Союз
+http://lobby.peaktv.name/balancer/bigteisti3/soyuz/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Россия | Russia" tvg-id="elb2614" tvg-name="Русский север" tvg-logo="http://peaktv.su/img/logos/efir/russky-sever.png" catchup="flussonic" catchup-days="3", Русский север
 http://lobby.peaktv.name/balancer/bigteisti6/russkiy_sever/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Россия | Russia" tvg-id="elb742" tvg-name="78 канал" tvg-logo="http://peaktv.su/img/logos/efir/78.png", 78 канал
 http://lobby.peaktv.name/balancer/bigteisti2/78/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Россия | Russia" tvg-id="elb290" tvg-name="Доверие" tvg-logo="http://peaktv.su/img/logos/efir/doverie.png" catchup="flussonic" catchup-days="3", Доверие
 http://lobby.peaktv.name/balancer/bigteisti9/DOVERIE/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
-#EXTINF:-1 group-title="Новостные | News" tvg-id="elb2820" tvg-name="Соловьёв LIVE" tvg-logo="http://peaktv.su/img/logos/region/novorossija.png" catchup="flussonic" catchup-days="3", Соловьёв LIVE
-http://lobby.peaktv.name/balancer/bigteisti6/novorossiya_tv/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Россия | Russia" tvg-id="579" tvg-name="Глас" tvg-logo="http://peaktv.su/img/logos/ukraina/glas.png", Глас
+http://lobby.peaktv.name/balancer/bigteisti6/glAs/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Россия | Russia" tvg-id="elb416" tvg-name="ТНВ-Планета" tvg-logo="http://peaktv.su/img/logos/federal/tnv.png" catchup="flussonic" catchup-days="3", ТНВ-Планета
+http://lobby.peaktv.name/balancer/bigteisti6/NASA/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Новостные | News" tvg-id="elb213" tvg-name="Известия HD" tvg-logo="http://peaktv.su/img/logos/efir/izvestia.png" catchup="flussonic" catchup-days="3", Известия HD
 http://lobby.peaktv.name/balancer/bigteisti9/IZVESTIA/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Новостные | News" tvg-id="elb365" tvg-name="Россия 24" tvg-logo="http://peaktv.su/img/logos/federal/rossia-24.png" catchup="flussonic" catchup-days="3", Россия 24
 http://lobby.peaktv.name/balancer/bigteisti6/rossiya_24/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Новостные | News" tvg-id="elb2820" tvg-name="Соловьёв LIVE" tvg-logo="http://peaktv.su/img/logos/region/novorossija.png" catchup="flussonic" catchup-days="3", Соловьёв LIVE
+http://lobby.peaktv.name/balancer/bigteisti6/novorossiya_tv/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Новостные | News" tvg-id="elb357" tvg-name="РБК HD" tvg-logo="http://peaktv.su/img/logos/efir/rbk.png" catchup="flussonic" catchup-days="3", РБК HD
 http://lobby.peaktv.name/balancer/bigteisti3/rbchd/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Новостные | News" tvg-id="elb11" tvg-name="360 Новости HD" tvg-logo="http://peaktv.su/img/logos/efir/360-news.png", 360 Новости HD
 http://lobby.peaktv.name/balancer/bigteisti6/360_novosti_HD/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Новостные | News" tvg-id="elb283" tvg-name="Мир 24" tvg-logo="http://peaktv.su/img/logos/efir/mir24.png" catchup="flussonic" catchup-days="3", Мир 24
 http://lobby.peaktv.name/balancer/bigteisti3/mir24/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
-#EXTINF:-1 group-title="Новостные | News" tvg-id="elb259" tvg-name="ЛенТВ 24" tvg-logo="http://peaktv.su/img/logos/region/lot-47.png" catchup="flussonic" catchup-days="3", ЛенТВ 24
-http://lobby.peaktv.name/balancer/bigteisti1/08936911/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Новостные | News" tvg-id="elb289" tvg-name="Москва 24" tvg-logo="http://peaktv.su/img/logos/efir/moskva-24.png" catchup="flussonic" catchup-days="3", Москва 24
 http://lobby.peaktv.name/balancer/bigteisti2/MOSKVA24/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Новостные | News" tvg-id="elb259" tvg-name="ЛенТВ 24" tvg-logo="http://peaktv.su/img/logos/region/lot-47.png" catchup="flussonic" catchup-days="3", ЛенТВ 24
+http://lobby.peaktv.name/balancer/bigteisti1/08936911/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Новостные | News" tvg-id="579" tvg-name="Луганск 24" tvg-logo="http://peaktv.su/img/logos/region/ylugansk24.png", Луганск 24
+http://lobby.peaktv.name/balancer/bigteisti6/lugAnsk_24/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Новостные | News" tvg-name="News Front" tvg-logo="http://peaktv.su/img/logos/news/NEWSFRONT200.png", News Front
+http://lobby.peaktv.name/balancer/bigteisti19/09946974/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Новостные | News" tvg-name="ЦарьГрад" tvg-logo="http://peaktv.su/img/logos/efir/tsargrad.png", ЦарьГрад
 http://lobby.peaktv.name/balancer/bigteisti3/tsargrad/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Новостные | News" tvg-name="Russia Today HD" tvg-logo="http://peaktv.su/img/logos/efir/rt-news.png" catchup="flussonic" catchup-days="3", Russia Today HD
 http://lobby.peaktv.name/balancer/bigteisti3/rho_beta9/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Новостные | News" tvg-id="elb3680" tvg-name="Евроновости" tvg-logo="http://peaktv.su/img/logos/efir/euronews.png", Евроновости
 http://lobby.peaktv.name/balancer/bigteisti3/euronews/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Новостные | News" tvg-id="elb894" tvg-name="BBC World News" tvg-logo="http://peaktv.su/img/logos/efir/bbc.png", BBC World News
+http://lobby.peaktv.name/balancer/bigteisti8/BBC_WORLD_NEWS/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Новостные | News" tvg-id="elb1342" tvg-name="Дождь HD" tvg-logo="https://epg.iptvx.one/picons/dozhd.png" catchup="flussonic" catchup-days="3", Дождь HD
 http://lobby.peaktv.name/balancer/bigteisti13/psi_88X/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Новостные | News" tvg-id="elb2595" tvg-name="RTVI" tvg-logo="http://peaktv.su/img/logos/efir/rtvi.png" catchup="flussonic" catchup-days="3", RTVI
@@ -85,14 +99,30 @@ http://lobby.peaktv.name/balancer/bigteisti1/nast_vremya/ZGVuaXMxMjIzfHxSR1Z1YVh
 http://lobby.peaktv.name/balancer/bigteisti6/krAsnAya_liniya/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Новостные | News" tvg-id="elb1362" tvg-name="ЭхоТВ" tvg-logo="http://peaktv.su/img/logos/efir/echotv.png", ЭхоТВ
 http://lobby.peaktv.name/balancer/bigteisti6/aeho_Tv/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Развлекательные | Rest" tvg-id="elb110" tvg-name="Russian Extreme Ultra (Ultra REX)" tvg-logo="http://peaktv.su/img/logos/uhd/russian-extreme-uhd.png" catchup="flussonic" catchup-days="3", Russian Extreme Ultra (Ultra REX)
+http://lobby.peaktv.name/balancer/bigteisti3/ultra_rex_4k/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Развлекательные | Rest" tvg-id="elb582" tvg-name="CineMan Relax 4K" tvg-logo="http://peaktv.su/img/logos/cineman/CineMan-Relax4k.png", CineMan Relax 4K
+http://lobby.peaktv.name/balancer/bigteisti2/08946973/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Развлекательные | Rest" tvg-id="elb3591" tvg-name="BOX Relax 4K" tvg-logo="http://peaktv.su/img/logos/box/relax4k.png", BOX Relax 4K
+http://lobby.peaktv.name/balancer/bigteisti13/jz_BBX/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Развлекательные | Rest" tvg-id="elb4750" tvg-name="FUNBOX UHD" tvg-logo="http://peaktv.su/img/logos/uhd/funboxuhd.png" catchup="flussonic" catchup-days="3", FUNBOX UHD
+http://lobby.peaktv.name/balancer/bigteisti13/FUNBOX_UHD/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Развлекательные | Rest" tvg-name="Fashion TV UHD", Fashion TV UHD
+http://lobby.peaktv.name/balancer/bigteisti10/08946964/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Развлекательные | Rest" tvg-id="elb2171" tvg-name="MyZen 4K" tvg-logo="http://peaktv.su/img/logos/uhd/myzen-tv.png", MyZen 4K
+http://lobby.peaktv.name/balancer/bigteisti9/myzen_4k/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Развлекательные | Rest" tvg-id="elb355" tvg-name="Ратник HD" tvg-logo="http://peaktv.su/img/logos/show/ratnik.png", Ратник HD
 http://lobby.peaktv.name/balancer/bigteisti19/09946943/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Развлекательные | Rest" tvg-id="elb580" tvg-name="CineMan Фитнес" tvg-logo="http://peaktv.su/img/logos/cineman/CineMan-Fitnes.png", CineMan Фитнес
+http://lobby.peaktv.name/balancer/bigteisti2/08946992/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Развлекательные | Rest" tvg-id="elb799" tvg-name="Аппетитный HD" tvg-logo="http://peaktv.su/img/logos/show/appetitny.png" catchup="flussonic" catchup-days="3", Аппетитный HD
 http://lobby.peaktv.name/balancer/bigteisti19/08946921/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Развлекательные | Rest" tvg-id="elb200" tvg-name="Еда" tvg-logo="http://peaktv.su/img/logos/poznanie/eda.png" catchup="flussonic" catchup-days="3", Еда
 http://lobby.peaktv.name/balancer/bigteisti2/EDA/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Развлекательные | Rest" tvg-id="elb257" tvg-name="Кухня ТВ HD" tvg-logo="http://peaktv.su/img/logos/poznanie/kuhnia.png" catchup="flussonic" catchup-days="3", Кухня ТВ HD
 http://lobby.peaktv.name/balancer/bigteisti6/kuhnya_tv_HD/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Развлекательные | Rest" tvg-id="elb257" tvg-name="Кухня ТВ" tvg-logo="http://peaktv.su/img/logos/poznanie/kuhnia.png", Кухня ТВ
+http://lobby.peaktv.name/balancer/bigteisti6/kuhnya_tv/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Развлекательные | Rest" tvg-name="Первый Вегетарианский" tvg-logo="http://peaktv.su/img/logos/poznanie/pervy-vegetariansky.png" catchup="flussonic" catchup-days="3", Первый Вегетарианский
 http://lobby.peaktv.name/balancer/bigteisti10/08946990/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Развлекательные | Rest" tvg-id="elb3373" tvg-name="Вкус" tvg-logo="http://peaktv.su/img/logos/show/vkus.png" catchup="flussonic" catchup-days="3", Вкус
@@ -103,32 +133,76 @@ http://lobby.peaktv.name/balancer/bigteisti10/EDAPREMIUM/ZGVuaXMxMjIzfHxSR1Z1YVh
 http://lobby.peaktv.name/balancer/bigteisti1/foodnetworkhd/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Развлекательные | Rest" tvg-id="elb460" tvg-name="Yosso TV Food" tvg-logo="http://peaktv.su/img/logos/yosso_tv/yosso-food.png" catchup="flussonic" catchup-days="3", Yosso TV Food
 http://lobby.peaktv.name/balancer/bigteisti1/Y-FOOD/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Развлекательные | Rest" tvg-id="elb3577" tvg-name="BOX Gurman HD" tvg-logo="http://peaktv.su/img/logos/box/gurman.png" catchup="flussonic" catchup-days="3", BOX Gurman HD
+http://lobby.peaktv.name/balancer/bigteisti13/lz_Matrix/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Развлекательные | Rest" tvg-id="elb3574" tvg-name="BOX Game HD" tvg-logo="http://peaktv.su/img/logos/box/game.png" catchup="flussonic" catchup-days="3", BOX Game HD
+http://lobby.peaktv.name/balancer/bigteisti13/kz_Optimus/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Развлекательные | Rest" tvg-id="elb3564" tvg-name="BOX Autotrend HD" tvg-logo="http://peaktv.su/img/logos/box/autotrend.png" catchup="flussonic" catchup-days="3", BOX Autotrend HD
+http://lobby.peaktv.name/balancer/bigteisti13/mz_PiX/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Развлекательные | Rest" tvg-id="elb3616" tvg-name="BOX Stories HD" tvg-logo="http://peaktv.su/img/logos/box/box-stories.png" catchup="flussonic" catchup-days="3", BOX Stories HD
+http://lobby.peaktv.name/balancer/bigteisti13/gz_XF4/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Развлекательные | Rest" tvg-id="elb3581" tvg-name="BOX Lo-Fi HD" tvg-logo="http://peaktv.su/img/logos/box/lofi.png", BOX Lo-Fi HD
+http://lobby.peaktv.name/balancer/bigteisti13/no_ZX99/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Развлекательные | Rest" tvg-id="elb517" tvg-name="MM Квартирник HD" tvg-logo="http://peaktv.su/img/logos/minimax/1041.png" catchup="flussonic" catchup-days="3", MM Квартирник HD
+http://lobby.peaktv.name/balancer/bigteisti13/minimax_kvartirnik/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Развлекательные | Rest" tvg-id="elb494" tvg-name="MM OldSchool HD" tvg-logo="http://peaktv.su/img/logos/minimax/1014.png" catchup="flussonic" catchup-days="3", MM OldSchool HD
+http://lobby.peaktv.name/balancer/bigteisti13/minimax_oldschool/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Развлекательные | Rest" tvg-id="elb571" tvg-name="GL Naked&amp;Funny" tvg-logo="http://peaktv.su/img/logos/GL/gl-naked_and_funny.png" catchup="flussonic" catchup-days="3", GL Naked&amp;Funny
+http://lobby.peaktv.name/balancer/bigteisti19/08946959/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Развлекательные | Rest" tvg-id="elb651" tvg-name="LIBERTY ШОУ FHD" tvg-logo="http://peaktv.su/img/logos/liberty/liberty-show.png" catchup="flussonic" catchup-days="3", LIBERTY ШОУ FHD
+http://lobby.peaktv.name/balancer/bigteisti2/08946919/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Развлекательные | Rest" tvg-id="elb630" tvg-name="LIBERTY АВТОГИР FHD" tvg-logo="http://peaktv.su/img/logos/liberty/liberty-avtogir.png" catchup="flussonic" catchup-days="3", LIBERTY АВТОГИР FHD
+http://lobby.peaktv.name/balancer/bigteisti2/08946926/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Развлекательные | Rest" tvg-id="elb4501" tvg-name="TVPlay ВКУСНОЕ ТВ" tvg-logo="http://peaktv.su/img/logos/tvplay/vkusnoe.png" catchup="flussonic" catchup-days="3", TVPlay ВКУСНОЕ ТВ
+http://lobby.peaktv.name/balancer/bigteisti10/08946913/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Развлекательные | Rest" tvg-id="elb4460" tvg-name="TVPlay Скетч-Шоу" tvg-logo="http://peaktv.su/img/logos/tvplay/big_raznitsa.png" catchup="flussonic" catchup-days="3", TVPlay Скетч-Шоу
+http://lobby.peaktv.name/balancer/bigteisti10/08946912/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Развлекательные | Rest" tvg-id="elb4496" tvg-name="TVPlay Своя игра HD" tvg-logo="http://peaktv.su/img/logos/tvplay/svoya_igra.png" catchup="flussonic" catchup-days="3", TVPlay Своя игра HD
+http://lobby.peaktv.name/balancer/bigteisti10/08946925/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Развлекательные | Rest" tvg-id="elb4482" tvg-name="TVPLAY Маски Шоу" tvg-logo="http://peaktv.su/img/logos/tvplay/maski.png" catchup="flussonic" catchup-days="3", TVPLAY Маски Шоу
+http://lobby.peaktv.name/balancer/bigteisti10/08946903/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Развлекательные | Rest" tvg-id="elb4454" tvg-name="TVPlay 6 Кадров" tvg-logo="http://peaktv.su/img/logos/tvplay/6kadrov.png" catchup="flussonic" catchup-days="3", TVPlay 6 Кадров
+http://lobby.peaktv.name/balancer/bigteisti10/08946909/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Развлекательные | Rest" tvg-id="elb4473" tvg-name="TVPlay Городок" tvg-logo="http://peaktv.su/img/logos/tvplay/gorodok.png" catchup="flussonic" catchup-days="3", TVPlay Городок
+http://lobby.peaktv.name/balancer/bigteisti10/08946911/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Развлекательные | Rest" tvg-id="elb4471" tvg-name="TVPlay GameZone HD" tvg-logo="http://peaktv.su/img/logos/tvplay/game_zone.png" catchup="flussonic" catchup-days="3", TVPlay GameZone HD
+http://lobby.peaktv.name/balancer/bigteisti10/08946935/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Развлекательные | Rest" tvg-name="First TV Show HD", First TV Show HD
+http://lobby.peaktv.name/balancer/bigteisti20/09946912/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Развлекательные | Rest" tvg-id="elb224" tvg-name="КВН-ТВ" tvg-logo="http://peaktv.su/img/logos/show/kvn-tv.png" catchup="flussonic" catchup-days="3", КВН-ТВ
 http://lobby.peaktv.name/balancer/bigteisti1/kvn/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Развлекательные | Rest" tvg-id="elb788" tvg-name="Анекдот ТВ" tvg-logo="http://peaktv.su/img/logos/show/anekdottv.png" catchup="flussonic" catchup-days="3", Анекдот ТВ
+http://lobby.peaktv.name/balancer/bigteisti10/ANEKDOT/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Развлекательные | Rest" tvg-id="elb3129" tvg-name="Твоё ТВ Юмор HD" tvg-logo="http://peaktv.su/img/logos/kinoInt/Tvoe-TV-Umor.png" catchup="flussonic" catchup-days="3", Твоё ТВ Юмор HD
 http://lobby.peaktv.name/balancer/bigteisti6/08936904/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Развлекательные | Rest" tvg-id="elb2180" tvg-name="Народ Всё Видит" tvg-logo="http://peaktv.su/img/logos/show/narod-vsio-vidit.png" catchup="flussonic" catchup-days="3", Народ Всё Видит
 http://lobby.peaktv.name/balancer/bigteisti19/09946955/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Развлекательные | Rest" tvg-id="elb10" tvg-name="2x2" tvg-logo="http://peaktv.su/img/logos/show/2x2.png" catchup="flussonic" catchup-days="3", 2x2
+http://lobby.peaktv.name/balancer/bigteisti6/2x2/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Развлекательные | Rest" tvg-id="elb2270" tvg-name="Новый игровой канал" tvg-logo="http://peaktv.su/img/logos/show/nowy-igrowoj.png" catchup="flussonic" catchup-days="3", Новый игровой канал
+http://lobby.peaktv.name/balancer/bigteisti19/08946923/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Развлекательные | Rest" tvg-id="elb437" tvg-name="Центральное телевидение" tvg-logo="http://peaktv.su/img/logos/efir/centralnoye-tv.png" catchup="flussonic" catchup-days="3", Центральное телевидение
+http://lobby.peaktv.name/balancer/bigteisti6/centrAl_noe_televidenie/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Развлекательные | Rest" tvg-id="elb371" tvg-name="Плюс Минус 16 HD" tvg-logo="http://peaktv.su/img/logos/poznanie/plusminus16.png" catchup="flussonic" catchup-days="3", Плюс Минус 16 HD
 http://lobby.peaktv.name/balancer/bigteisti19/08946924/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Развлекательные | Rest" tvg-id="elb411" tvg-name="360° Подмосковье HD" tvg-logo="http://peaktv.su/img/logos/show/360-podmoskovie.png" catchup="flussonic" catchup-days="3", 360° Подмосковье HD
 http://lobby.peaktv.name/balancer/bigteisti19/08946920/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
-#EXTINF:-1 group-title="Развлекательные | Rest" tvg-id="elb10" tvg-name="2x2" tvg-logo="http://peaktv.su/img/logos/show/2x2.png" catchup="flussonic" catchup-days="3", 2x2
-http://lobby.peaktv.name/balancer/bigteisti6/2x2/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
-#EXTINF:-1 group-title="Развлекательные | Rest" tvg-id="elb437" tvg-name="Центральное телевидение" tvg-logo="http://peaktv.su/img/logos/efir/centralnoye-tv.png" catchup="flussonic" catchup-days="3", Центральное телевидение
-http://lobby.peaktv.name/balancer/bigteisti6/centrAl_noe_televidenie/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
-#EXTINF:-1 group-title="Развлекательные | Rest" tvg-id="elb3474" tvg-name="Загородный" tvg-logo="http://peaktv.su/img/logos/show/zagorodny.png" catchup="flussonic" catchup-days="3", Загородный
-http://lobby.peaktv.name/balancer/bigteisti20/08946905/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
-#EXTINF:-1 group-title="Развлекательные | Rest" tvg-id="elb4738" tvg-name="RutubeTV HD" tvg-logo="http://peaktv.su/img/logos/show/rutubetvhd.png" catchup="flussonic" catchup-days="3", RutubeTV HD
-http://lobby.peaktv.name/balancer/bigteisti10/08946982/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Развлекательные | Rest" tvg-id="elb194" tvg-name="Домашние животные" tvg-logo="http://peaktv.su/img/logos/show/domashnie-zhivotnye.png" catchup="flussonic" catchup-days="3", Домашние животные
 http://lobby.peaktv.name/balancer/bigteisti19/09946940/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Развлекательные | Rest" tvg-id="elb351" tvg-name="Психология" tvg-logo="http://peaktv.su/img/logos/show/psixologia-21.png", Психология
 http://lobby.peaktv.name/balancer/bigteisti19/09946941/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Развлекательные | Rest" tvg-id="elb1360" tvg-name="Эх! HD" tvg-logo="http://peaktv.su/img/logos/show/ech.png" catchup="flussonic" catchup-days="3", Эх! HD
 http://lobby.peaktv.name/balancer/bigteisti19/09946942/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Развлекательные | Rest" tvg-id="elb3474" tvg-name="Загородный" tvg-logo="http://peaktv.su/img/logos/show/zagorodny.png" catchup="flussonic" catchup-days="3", Загородный
+http://lobby.peaktv.name/balancer/bigteisti20/08946905/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Развлекательные | Rest" tvg-id="elb4738" tvg-name="RutubeTV HD" tvg-logo="http://peaktv.su/img/logos/show/rutubetvhd.png" catchup="flussonic" catchup-days="3", RutubeTV HD
+http://lobby.peaktv.name/balancer/bigteisti10/08946982/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Развлекательные | Rest" tvg-id="elb322" tvg-name="НТВ Стиль" tvg-logo="http://peaktv.su/img/logos/show/ntv-style.png" catchup="flussonic" catchup-days="3", НТВ Стиль
 http://lobby.peaktv.name/balancer/bigteisti1/ntvstil/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Развлекательные | Rest" tvg-id="elb320" tvg-name="НТВ Право" tvg-logo="http://peaktv.su/img/logos/poznanie/ntv-pravo.png" catchup="flussonic" catchup-days="3", НТВ Право
+http://lobby.peaktv.name/balancer/bigteisti2/NTV_PRAVO/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Развлекательные | Rest" tvg-id="elb3489" tvg-name="Зал суда HD" tvg-logo="http://peaktv.su/img/logos/efir/zal-suda.png" catchup="flussonic" catchup-days="3", Зал суда HD
+http://lobby.peaktv.name/balancer/bigteisti9/ZALSUDA/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Развлекательные | Rest" tvg-id="elb317" tvg-name="Ностальгия" tvg-logo="http://peaktv.su/img/logos/efir/nostalgia.png" catchup="flussonic" catchup-days="3", Ностальгия
 http://lobby.peaktv.name/balancer/bigteisti10/NOSTALGIA/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Развлекательные | Rest" tvg-id="elb109" tvg-name="HD REX" tvg-logo="http://peaktv.su/img/logos/show/russky-ekstrim.png" catchup="flussonic" catchup-days="3", HD REX
@@ -167,10 +241,44 @@ http://lobby.peaktv.name/balancer/bigteisti6/kAleiydoskop_tv/ZGVuaXMxMjIzfHxSR1Z
 http://lobby.peaktv.name/balancer/bigteisti6/08936924/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Развлекательные | Rest" tvg-id="elb2956" tvg-name="Теледом" tvg-logo="http://peaktv.su/img/logos/efir/teledom.png", Теледом
 http://lobby.peaktv.name/balancer/bigteisti6/teledom/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
-#EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb467" tvg-name="Yosso TV Nature" tvg-logo="http://peaktv.su/img/logos/yosso_tv/yosso-nature.png" catchup="flussonic" catchup-days="3", Yosso TV Nature
-http://lobby.peaktv.name/balancer/bigteisti1/Y-NATURE/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb3580" tvg-name="BOX Kosmo 4K" tvg-logo="http://peaktv.su/img/logos/box/BOXKOSMOHDR200.png" catchup="flussonic" catchup-days="3", BOX Kosmo 4K
+http://lobby.peaktv.name/balancer/bigteisti13/op_Xeon/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb3578" tvg-name="BOX HISTORY 4K HDR" tvg-logo="http://peaktv.su/img/logos/box/box-history-4k.png" catchup="flussonic" catchup-days="3", BOX HISTORY 4K HDR
+http://lobby.peaktv.name/balancer/bigteisti13/kl_Frontier/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb3806" tvg-name="TravelXP 4K" tvg-logo="http://peaktv.su/img/logos/uhd/travel-xp-4k.png", TravelXP 4K
+http://lobby.peaktv.name/balancer/bigteisti3/travelxp_4k/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb1888" tvg-name="Love Nature 4K" tvg-logo="http://peaktv.su/img/logos/uhd/love-nature-4k.png" catchup="flussonic" catchup-days="3", Love Nature 4K
+http://lobby.peaktv.name/balancer/bigteisti6/Love_Nature_4K/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb2188" tvg-name="Наша Сибирь 4K" tvg-logo="http://peaktv.su/img/logos/uhd/nasha-sibir-4k.png" catchup="flussonic" catchup-days="3", Наша Сибирь 4K
+http://lobby.peaktv.name/balancer/bigteisti6/nAshA_sibir__4K/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb183" tvg-name="Глазами Туриста 4K" tvg-logo="http://peaktv.su/img/logos/uhd/glazami-turista-4k.png" catchup="flussonic" catchup-days="3", Глазами Туриста 4K
+http://lobby.peaktv.name/balancer/bigteisti6/glazami_turista_4k/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb99" tvg-name="Quadro 4K" tvg-logo="http://peaktv.su/img/logos/uhd/quadro4k.png" catchup="flussonic" catchup-days="3", Quadro 4K
+http://lobby.peaktv.name/balancer/bigteisti9/QUADRO_4K/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb74" tvg-name="HOME 4K" tvg-logo="http://peaktv.su/img/logos/uhd/home4k.png", HOME 4K
+http://lobby.peaktv.name/balancer/bigteisti1/08936907/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb92" tvg-name="Museum 4K" tvg-logo="http://peaktv.su/img/logos/uhd/museum-4k.png" catchup="flussonic" catchup-days="3", Museum 4K
+http://lobby.peaktv.name/balancer/bigteisti9/museum_4k/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb218" tvg-name="Insight UHD" tvg-logo="http://peaktv.su/img/logos/uhd/insight-ultra-hd.png" catchup="flussonic" catchup-days="3", Insight UHD
+http://lobby.peaktv.name/balancer/bigteisti1/08936908/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb577" tvg-name="CineMan Air Crash" tvg-logo="http://peaktv.su/img/logos/cineman/Cineman-AirCrash.png" catchup="flussonic" catchup-days="3", CineMan Air Crash
 http://lobby.peaktv.name/balancer/bigteisti2/08946967/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb3583" tvg-name="BOX Mayday HD" tvg-logo="http://peaktv.su/img/logos/box/mayday.png" catchup="flussonic" catchup-days="3", BOX Mayday HD
+http://lobby.peaktv.name/balancer/bigteisti13/sz_AbY/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb3617" tvg-name="BOX Travel HD" tvg-logo="http://peaktv.su/img/logos/box/travel.png" catchup="flussonic" catchup-days="3", BOX Travel HD
+http://lobby.peaktv.name/balancer/bigteisti13/qz_44K/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb3618" tvg-name="BOX Travel Premiere HD" tvg-logo="http://peaktv.su/img/logos/box/box-travel.png" catchup="flussonic" catchup-days="3", BOX Travel Premiere HD
+http://lobby.peaktv.name/balancer/bigteisti13/tz_12W/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb3570" tvg-name="BOX Docu. HD" tvg-logo="http://peaktv.su/img/logos/box/box-docu.png" catchup="flussonic" catchup-days="3", BOX Docu. HD
+http://lobby.peaktv.name/balancer/bigteisti13/rz_7QX/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb634" tvg-name="LIBERTY BBC FHD" tvg-logo="http://peaktv.su/img/logos/liberty/liberty-bbc.png" catchup="flussonic" catchup-days="3", LIBERTY BBC FHD
+http://lobby.peaktv.name/balancer/bigteisti2/08946911/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb648" tvg-name="LIBERTY ПЛАНЕТА 360 FHD" tvg-logo="http://peaktv.su/img/logos/liberty/liberty-plan360.png" catchup="flussonic" catchup-days="3", LIBERTY ПЛАНЕТА 360 FHD
+http://lobby.peaktv.name/balancer/bigteisti2/08946915/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb631" tvg-name="LIBERTY НАУКА FHD" tvg-logo="http://peaktv.su/img/logos/liberty/liberty-nauka.png" catchup="flussonic" catchup-days="3", LIBERTY НАУКА FHD
+http://lobby.peaktv.name/balancer/bigteisti2/08946929/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb659" tvg-name="LIBERTY ДОКУМЕНТАЛКА FHD" tvg-logo="http://peaktv.su/img/logos/liberty/liberty-documentalka.png" catchup="flussonic" catchup-days="3", LIBERTY ДОКУМЕНТАЛКА FHD
+http://lobby.peaktv.name/balancer/bigteisti2/08946965/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb524" tvg-name="MM Микромир HD" tvg-logo="http://peaktv.su/img/logos/minimax/1049.png" catchup="flussonic" catchup-days="3", MM Микромир HD
 http://lobby.peaktv.name/balancer/bigteisti13/minimax_micromir/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb525" tvg-name="MM Макромир HD" tvg-logo="http://peaktv.su/img/logos/minimax/1050.png" catchup="flussonic" catchup-days="3", MM Макромир HD
@@ -185,6 +293,8 @@ http://lobby.peaktv.name/balancer/bigteisti13/minimax_experiment/ZGVuaXMxMjIzfHx
 http://lobby.peaktv.name/balancer/bigteisti13/minimax_otkritiya/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb473" tvg-name="Yosso TV Science" tvg-logo="http://peaktv.su/img/logos/yosso_tv/yosso-science.png" catchup="flussonic" catchup-days="3", Yosso TV Science
 http://lobby.peaktv.name/balancer/bigteisti1/Y-SCIENCE/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb467" tvg-name="Yosso TV Nature" tvg-logo="http://peaktv.su/img/logos/yosso_tv/yosso-nature.png" catchup="flussonic" catchup-days="3", Yosso TV Nature
+http://lobby.peaktv.name/balancer/bigteisti1/Y-NATURE/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb480" tvg-name="Yosso TV Travel" tvg-logo="http://peaktv.su/img/logos/yosso_tv/yosso-travel.png" catchup="flussonic" catchup-days="3", Yosso TV Travel
 http://lobby.peaktv.name/balancer/bigteisti1/Y-TRAVEL/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb3033" tvg-name="TravelXP HD" tvg-logo="http://peaktv.su/img/logos/poznanie/travel-xp-hd.png" catchup="flussonic" catchup-days="3", TravelXP HD
@@ -195,6 +305,8 @@ http://lobby.peaktv.name/balancer/bigteisti10/08946988/ZGVuaXMxMjIzfHxSR1Z1YVhOc
 http://lobby.peaktv.name/balancer/bigteisti20/09946944/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb205" tvg-name="Живая Природа HD" catchup="flussonic" catchup-days="3", Живая Природа HD
 http://lobby.peaktv.name/balancer/bigteisti20/08946975/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb2111" tvg-name="Моя Стихия FHD" tvg-logo="http://peaktv.su/img/logos/poznanie/morskoy.png" catchup="flussonic" catchup-days="3", Моя Стихия FHD
+http://lobby.peaktv.name/balancer/bigteisti19/08946902/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb179" tvg-name="В мире животных HD" tvg-logo="http://peaktv.su/img/logos/poznanie/v-mire-zhivotnyx.png" catchup="flussonic" catchup-days="3", В мире животных HD
 http://lobby.peaktv.name/balancer/bigteisti10/vmirezhivotnix/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb3029" tvg-name="Travel Channel HD" tvg-logo="http://peaktv.su/img/logos/poznanie/travel-channel.png" catchup="flussonic" catchup-days="3", Travel Channel HD
@@ -211,14 +323,22 @@ http://lobby.peaktv.name/balancer/bigteisti10/NATIONALGEOGRAPHIC/ZGVuaXMxMjIzfHx
 http://lobby.peaktv.name/balancer/bigteisti2/NatGeoWild/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb791" tvg-name="Animal Planet HD" tvg-logo="http://peaktv.su/img/logos/poznanie/animal-planet.png" catchup="flussonic" catchup-days="3", Animal Planet HD
 http://lobby.peaktv.name/balancer/bigteisti2/AnimalPlanet/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb791" tvg-name="Animal Planet" tvg-logo="http://peaktv.su/img/logos/poznanie/animal-planet.png", Animal Planet
+http://lobby.peaktv.name/balancer/bigteisti6/Animal_Planet/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb895" tvg-name="BBC Earth" tvg-logo="http://peaktv.su/img/logos/efir/bbc-earth.png", BBC Earth
+http://lobby.peaktv.name/balancer/bigteisti1/bbc_earth/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb347" tvg-name="Приключения HD" tvg-logo="http://peaktv.su/img/logos/poznanie/prikluchenia-hd.png" catchup="flussonic" catchup-days="3", Приключения HD
 http://lobby.peaktv.name/balancer/bigteisti9/PRIKLUCHENIA/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb294" tvg-name="Моя Планета HD" tvg-logo="http://peaktv.su/img/logos/poznanie/moya-planeta.png" catchup="flussonic" catchup-days="3", Моя Планета HD
 http://lobby.peaktv.name/balancer/bigteisti2/moyaplanetahd/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb132" tvg-name="The Explorers HD" tvg-logo="http://peaktv.su/img/logos/poznanie/the-explorers.png" catchup="flussonic" catchup-days="3", The Explorers HD
 http://lobby.peaktv.name/balancer/bigteisti10/08936902/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb251" tvg-name="Конгресс ТВ HD" tvg-logo="http://peaktv.su/img/logos/poznanie/kongresstv.png" catchup="flussonic" catchup-days="3", Конгресс ТВ HD
+http://lobby.peaktv.name/balancer/bigteisti19/08946926/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Познавательные | Nature" tvg-name="Чемодан ТВ HD" tvg-logo="http://peaktv.su/img/logos/poznanie/chemodan.png" catchup="flussonic" catchup-days="3", Чемодан ТВ HD
 http://lobby.peaktv.name/balancer/bigteisti3/xi_Tiger/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb2170" tvg-name="Мы HD" tvg-logo="http://peaktv.su/img/logos/poznanie/myy.png" catchup="flussonic" catchup-days="3", Мы HD
+http://lobby.peaktv.name/balancer/bigteisti19/08946922/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb254" tvg-name="Кто есть кто" tvg-logo="http://peaktv.su/img/logos/poznanie/kto-est-kto.png" catchup="flussonic" catchup-days="3", Кто есть кто
 http://lobby.peaktv.name/balancer/bigteisti2/KTOESTKTO/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb402" tvg-name="Тайны Галактики HD" tvg-logo="http://peaktv.su/img/logos/poznanie/galaxy-tv.png" catchup="flussonic" catchup-days="3", Тайны Галактики HD
@@ -231,14 +351,18 @@ http://lobby.peaktv.name/balancer/bigteisti1/curiosity_stream_HD/ZGVuaXMxMjIzfHx
 http://lobby.peaktv.name/balancer/bigteisti6/nAno_tv_HD/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb306" tvg-name="Наука 2.0 HD" tvg-logo="http://peaktv.su/img/logos/poznanie/nauka-20.png" catchup="flussonic" catchup-days="3", Наука 2.0 HD
 http://lobby.peaktv.name/balancer/bigteisti9/NAUKA20/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
-#EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb2170" tvg-name="Мы HD" tvg-logo="http://peaktv.su/img/logos/poznanie/myy.png" catchup="flussonic" catchup-days="3", Мы HD
-http://lobby.peaktv.name/balancer/bigteisti19/08946922/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb189" tvg-name="Диалоги о рыбалке" tvg-logo="http://peaktv.su/img/logos/poznanie/dialogi-o-rib.png" catchup="flussonic" catchup-days="3", Диалоги о рыбалке
+http://lobby.peaktv.name/balancer/bigteisti10/dialogi/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb191" tvg-name="Дикая Рыбалка HD" tvg-logo="http://peaktv.su/img/logos/show/dikaya-rybalka-hd.png" catchup="flussonic" catchup-days="3", Дикая Рыбалка HD
 http://lobby.peaktv.name/balancer/bigteisti9/DIKAYARYBALKA/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb374" tvg-name="Рыболов" tvg-logo="http://peaktv.su/img/logos/show/oxotnik-i-rybolov-hd.png" catchup="flussonic" catchup-days="3", Рыболов
+http://lobby.peaktv.name/balancer/bigteisti1/rybolov/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb337" tvg-name="Охотник и рыболов HD" tvg-logo="http://peaktv.su/img/logos/poznanie/oxotnik-i-rybolov.png" catchup="flussonic" catchup-days="3", Охотник и рыболов HD
 http://lobby.peaktv.name/balancer/bigteisti6/ohotnik_rybolov_hd/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb190" tvg-name="Дикая Охота HD" tvg-logo="http://peaktv.su/img/logos/show/dikaya-oxota-hd.png" catchup="flussonic" catchup-days="3", Дикая Охота HD
 http://lobby.peaktv.name/balancer/bigteisti9/DIKAYAOHOTA/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb1309" tvg-name="Дикий" tvg-logo="http://peaktv.su/img/logos/poznanie/dikiy.png" catchup="flussonic" catchup-days="3", Дикий
+http://lobby.peaktv.name/balancer/bigteisti1/dikiy/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb310" tvg-name="Наша Тема HD" tvg-logo="http://peaktv.su/img/logos/poznanie/nasha-tema.png" catchup="flussonic" catchup-days="3", Наша Тема HD
 http://lobby.peaktv.name/balancer/bigteisti6/nAshA_temA/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Познавательные | Nature" tvg-name="First TV Охота и Рыбалка HD", First TV Охота и Рыбалка HD
@@ -257,11 +381,13 @@ http://lobby.peaktv.name/balancer/bigteisti1/oruzhie/ZGVuaXMxMjIzfHxSR1Z1YVhOcll
 http://lobby.peaktv.name/balancer/bigteisti6/ktokudA__mir_uvlecheniiy_/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb2619" tvg-name="РЖД ТВ" tvg-logo="http://peaktv.su/img/logos/efir/rzhd-tv.png", РЖД ТВ
 http://lobby.peaktv.name/balancer/bigteisti6/rzhd_tv/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb4230" tvg-name="History HD" tvg-logo="http://peaktv.su/img/logos/poznanie/history-hd.png" catchup="flussonic" catchup-days="3", History HD
+http://lobby.peaktv.name/balancer/bigteisti13/HistoryHD/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb1589" tvg-name="H2 HD" tvg-logo="http://peaktv.su/img/logos/poznanie/h2.png" catchup="flussonic" catchup-days="3", H2 HD
 http://lobby.peaktv.name/balancer/bigteisti19/08946911/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb106" tvg-name="RTД HD" tvg-logo="http://peaktv.su/img/logos/poznanie/russia-today.png" catchup="flussonic" catchup-days="3", RTД HD
 http://lobby.peaktv.name/balancer/bigteisti8/RTD_RU/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
-#EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb1596" tvg-name="Точка.РФ HD" tvg-logo="https://i.peaktv.pro/img/logos/poznanie/hdl.png" catchup="flussonic" catchup-days="3", Точка. РФ HD
+#EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb1596" tvg-name="Точка. РФ HD" tvg-logo="https://i.peaktv.pro/img/logos/poznanie/hdl.png" catchup="flussonic" catchup-days="3", Точка. РФ HD
 http://lobby.peaktv.name/balancer/bigteisti2/HDL/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb44" tvg-name="CGTN Русский" tvg-logo="http://peaktv.su/img/logos/poznanie/cctv-ru.png" catchup="flussonic" catchup-days="3", CGTN Русский
 http://lobby.peaktv.name/balancer/bigteisti10/CGTNRUS/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
@@ -275,8 +401,6 @@ http://lobby.peaktv.name/balancer/bigteisti13/BOLSHAYAASIA/ZGVuaXMxMjIzfHxSR1Z1Y
 http://lobby.peaktv.name/balancer/bigteisti2/ZOOPARK/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb400" tvg-name="24 Техно" tvg-logo="http://peaktv.su/img/logos/poznanie/texno-24.png" catchup="flussonic" catchup-days="3", 24 Техно
 http://lobby.peaktv.name/balancer/bigteisti2/tehno24/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
-#EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb4230" tvg-name="History HD" tvg-logo="http://peaktv.su/img/logos/poznanie/history-hd.png" catchup="flussonic" catchup-days="3", History HD
-http://lobby.peaktv.name/balancer/bigteisti13/HistoryHD/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb1323" tvg-name="DOCUBOX HD" tvg-logo="http://peaktv.su/img/logos/poznanie/docubox-hd.png" catchup="flussonic" catchup-days="3", DOCUBOX HD
 http://lobby.peaktv.name/balancer/bigteisti6/docubox_hd/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb2811" tvg-name="SmartZone HD" tvg-logo="http://peaktv.su/img/logos/poznanie/smartzone.png" catchup="flussonic" catchup-days="3", SmartZone HD
@@ -285,7 +409,9 @@ http://lobby.peaktv.name/balancer/bigteisti3/smartzone/ZGVuaXMxMjIzfHxSR1Z1YVhOc
 http://lobby.peaktv.name/balancer/bigteisti6/nAdezhdA/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb429" tvg-name="Усадьба" tvg-logo="http://peaktv.su/img/logos/poznanie/usadba.png" catchup="flussonic" catchup-days="3", Усадьба
 http://lobby.peaktv.name/balancer/bigteisti2/dXNhYWFkYmFhYQ/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
-#EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb401" tvg-name="Тайна" tvg-logo="http://peaktv.su/img/logos/poznanie/tayna.png" catchup="flussonic" catchup-days="3", Тайна
+#EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb999" tvg-name="Бобёр" tvg-logo="http://peaktv.su/img/logos/poznanie/bober.png" catchup="flussonic" catchup-days="3", Бобёр
+http://lobby.peaktv.name/balancer/bigteisti2/BOBER/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb2948" tvg-name="Тайна" tvg-logo="http://peaktv.su/img/logos/poznanie/tayna.png" catchup="flussonic" catchup-days="3", Тайна
 http://lobby.peaktv.name/balancer/bigteisti2/dGFpbmE/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb204" tvg-name="Живая планета HD" tvg-logo="http://peaktv.su/img/logos/poznanie/zhivaya-planeta.png" catchup="flussonic" catchup-days="3", Живая планета HD
 http://lobby.peaktv.name/balancer/bigteisti1/JIVAYAPLANETA/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
@@ -329,6 +455,8 @@ http://lobby.peaktv.name/balancer/bigteisti2/em9vdHY/ZGVuaXMxMjIzfHxSR1Z1YVhOcll
 http://lobby.peaktv.name/balancer/bigteisti2/muzhskoy/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb2419" tvg-name="Поехали!" tvg-logo="http://peaktv.su/img/logos/poznanie/poexali.png" catchup="flussonic" catchup-days="3", Поехали!
 http://lobby.peaktv.name/balancer/bigteisti2/Poehali/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb2051" tvg-name="Министерство идей" tvg-logo="http://peaktv.su/img/logos/poznanie/ministerstvo-idey.png", Министерство идей
+http://lobby.peaktv.name/balancer/bigteisti6/ministerstvo_ideiy/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb2330" tvg-name="Открытый мир" tvg-logo="http://peaktv.su/img/logos/poznanie/otkryty-mir.png" catchup="flussonic" catchup-days="3", Открытый мир
 http://lobby.peaktv.name/balancer/bigteisti1/OTKRITIYMIR/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb207" tvg-name="Живи Активно HD" tvg-logo="http://peaktv.su/img/logos/poznanie/zhivi-aktivno.png" catchup="flussonic" catchup-days="3", Живи Активно HD
@@ -349,32 +477,38 @@ http://lobby.peaktv.name/balancer/bigteisti13/SETANTA_EVENT_2/ZGVuaXMxMjIzfHxSR1
 http://lobby.peaktv.name/balancer/bigteisti10/SOVSEC/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb192" tvg-name="Доктор" tvg-logo="http://peaktv.su/img/logos/poznanie/doktor.png" catchup="flussonic" catchup-days="3", Доктор
 http://lobby.peaktv.name/balancer/bigteisti1/doktor/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
-#EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb18" tvg-name="ВолгВест" tvg-logo="http://peaktv.su/img/logos/region/volgvest.png", ВолгВест
+#EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb2231" tvg-name="ВолгВест" tvg-logo="http://peaktv.su/img/logos/region/volgvest.png", ВолгВест
 http://lobby.peaktv.name/balancer/bigteisti9/08936905/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Познавательные | Nature" tvg-id="elb54" tvg-name="English Class" tvg-logo="http://peaktv.su/img/logos/poznanie/english-class.png" catchup="flussonic" catchup-days="3", English Class
+http://lobby.peaktv.name/balancer/bigteisti2/EnglishClubTV/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кино | Cinema" tvg-id="elb143" tvg-name="Ultra HD Cinema (Cinema UHD)" tvg-logo="http://peaktv.su/img/logos/uhd/ultra-hd-cinema.png" catchup="flussonic" catchup-days="3", Ultra HD Cinema (Cinema UHD)
+http://lobby.peaktv.name/balancer/bigteisti9/ultrahd_cinema_4k/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кино | Cinema" tvg-id="elb1733" tvg-name="Кино UHD" tvg-logo="http://peaktv.su/img/logos/uhd/kinouhd.png" catchup="flussonic" catchup-days="3", Кино UHD
+http://lobby.peaktv.name/balancer/bigteisti6/kino_UHD/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кино | Cinema" tvg-id="elb291" tvg-name="Мосфильм: золотая коллекция HD" tvg-logo="http://peaktv.su/img/logos/films/mosfilm.png" catchup="flussonic" catchup-days="3", Мосфильм: золотая коллекция HD
 http://lobby.peaktv.name/balancer/bigteisti2/mosfilmhd/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
-#EXTINF:-1 group-title="Кино | Cinema" tvg-id="elb4739" tvg-name="Госфильмофонд. Машина времени" tvg-logo="http://peaktv.su/img/logos/kino/mashina_vremeni.png" catchup="flussonic" catchup-days="3", Госфильмофонд. Машина времени
-http://lobby.peaktv.name/balancer/bigteisti20/09946929/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кино | Cinema" tvg-id="elb434" tvg-name="Хит HD" tvg-logo="http://peaktv.su/img/logos/films/khit.png" catchup="flussonic" catchup-days="3", Хит HD
 http://lobby.peaktv.name/balancer/bigteisti8/HIT/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кино | Cinema" tvg-id="elb321" tvg-name="НТВ Сериал" tvg-logo="http://peaktv.su/img/logos/films/ntv-serial.png" catchup="flussonic" catchup-days="3", НТВ Сериал
 http://lobby.peaktv.name/balancer/bigteisti1/ntvserial/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кино | Cinema" tvg-id="elb325" tvg-name="НТВ Хит" tvg-logo="http://peaktv.su/img/logos/films/ntv-xit.png" catchup="flussonic" catchup-days="3", НТВ Хит
 http://lobby.peaktv.name/balancer/bigteisti3/ntvhit/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кино | Cinema" tvg-id="elb2355" tvg-name="Патриот" tvg-logo="https://epg.iptvx.one/picons/patriot.png" catchup="flussonic" catchup-days="3", Патриот
+http://lobby.peaktv.name/balancer/bigteisti19/09946944/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кино | Cinema" tvg-id="elb4717" tvg-name="Окко ТВ HD" tvg-logo="http://peaktv.su/img/logos/films/OKKOTV200.png" catchup="flussonic" catchup-days="3", Окко ТВ HD
 http://lobby.peaktv.name/balancer/bigteisti8/08946906/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кино | Cinema" tvg-id="elb127" tvg-name="START Air" tvg-logo="http://peaktv.su/img/logos/films/start-air.png" catchup="flussonic" catchup-days="3", START Air
 http://lobby.peaktv.name/balancer/bigteisti2/start_air/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кино | Cinema" tvg-id="elb128" tvg-name="START World" tvg-logo="http://peaktv.su/img/logos/films/start-world.png" catchup="flussonic" catchup-days="3", START World
 http://lobby.peaktv.name/balancer/bigteisti2/start_world/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кино | Cinema" tvg-id="elb1333" tvg-name="Дом кино" tvg-logo="http://peaktv.su/img/logos/films/domkino.png" catchup="flussonic" catchup-days="3", Дом кино
+http://lobby.peaktv.name/balancer/bigteisti9/domkino/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кино | Cinema" tvg-id="elb1335" tvg-name="Дом кино Премиум HD" tvg-logo="http://peaktv.su/img/logos/films/domkino-premium.png" catchup="flussonic" catchup-days="3", Дом кино Премиум HD
 http://lobby.peaktv.name/balancer/bigteisti2/domkinopremium/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
-#EXTINF:-1 group-title="Кино | Cinema" tvg-id="elb2355" tvg-name="Патриот" tvg-logo="https://epg.iptvx.one/picons/patriot.png" catchup="flussonic" catchup-days="3", Патриот
-http://lobby.peaktv.name/balancer/bigteisti19/09946944/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
-#EXTINF:-1 group-title="Кино | Cinema" tvg-id="elb2623" tvg-name="SAGA TV HD" tvg-logo="http://peaktv.su/img/logos/kino/SAGATV200.png" catchup="flussonic" catchup-days="3", SAGA TV HD
-http://lobby.peaktv.name/balancer/bigteisti19/09946961/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кино | Cinema" tvg-id="elb228" tvg-name="Кино ТВ HD" tvg-logo="http://peaktv.su/img/logos/films/kino-tv.png" catchup="flussonic" catchup-days="3", Кино ТВ HD
 http://lobby.peaktv.name/balancer/bigteisti1/kinotv/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кино | Cinema" tvg-id="elb2623" tvg-name="SAGA TV HD" tvg-logo="http://peaktv.su/img/logos/kino/SAGATV200.png" catchup="flussonic" catchup-days="3", SAGA TV HD
+http://lobby.peaktv.name/balancer/bigteisti19/09946961/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кино | Cinema" tvg-id="elb1464" tvg-name="ЕвроКино HD" tvg-logo="https://epg.iptvx.one/picons/eurokino.png" catchup="flussonic" catchup-days="3", ЕвроКино HD
 http://lobby.peaktv.name/balancer/bigteisti20/08946997/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кино | Cinema" tvg-id="elb4883" tvg-name="Киноджем 1 HD" tvg-logo="http://peaktv.su/img/logos/films/kinojam1.png" catchup="flussonic" catchup-days="3", Киноджем 1 HD
@@ -425,40 +559,54 @@ http://lobby.peaktv.name/balancer/bigteisti9/shok/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURX
 http://lobby.peaktv.name/balancer/bigteisti10/DUSHEVNOE/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кино | Cinema" tvg-id="elb2901" tvg-name="Страшное HD" tvg-logo="http://peaktv.su/img/logos/films/strashnoe-hd.png" catchup="flussonic" catchup-days="3", Страшное HD
 http://lobby.peaktv.name/balancer/bigteisti9/STRASHNOE/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
-#EXTINF:-1 group-title="Кино | Cinema" tvg-id="elb246" tvg-name="Кинохит HD" tvg-logo="http://peaktv.su/img/logos/films/kinoxit.png" catchup="flussonic" catchup-days="3", Кинохит HD
-http://lobby.peaktv.name/balancer/bigteisti2/kinohit/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кино | Cinema" tvg-id="elb238" tvg-name="Кинопремьера HD" tvg-logo="http://peaktv.su/img/logos/films/kinopremiera.png" catchup="flussonic" catchup-days="3", Кинопремьера HD
 http://lobby.peaktv.name/balancer/bigteisti9/KINOPREMIERA/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кино | Cinema" tvg-id="elb245" tvg-name="Кинохит FHD" tvg-logo="http://peaktv.su/img/logos/films/kinoxit.png" catchup="flussonic" catchup-days="3", Кинохит FHD
+http://lobby.peaktv.name/balancer/bigteisti2/kinohit/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кино | Cinema" tvg-id="elb242" tvg-name="Киносемья HD" tvg-logo="http://peaktv.su/img/logos/films/kinosemia.png" catchup="flussonic" catchup-days="3", Киносемья HD
 http://lobby.peaktv.name/balancer/bigteisti10/KINOSEMYA/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кино | Cinema" tvg-id="elb229" tvg-name="Кинокомедия HD" tvg-logo="http://peaktv.su/img/logos/films/kinokomedia.png" catchup="flussonic" catchup-days="3", Кинокомедия HD
 http://lobby.peaktv.name/balancer/bigteisti9/kinokomedia/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кино | Cinema" tvg-id="elb233" tvg-name="Киномикс HD" tvg-logo="http://peaktv.su/img/logos/films/kinomiks.png" catchup="flussonic" catchup-days="3", Киномикс HD
+http://lobby.peaktv.name/balancer/bigteisti10/KINOMIKS/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кино | Cinema" tvg-id="elb244" tvg-name="Киноужас HD" tvg-logo="http://peaktv.su/img/logos/films/kinouzhas.png" catchup="flussonic" catchup-days="3", Киноужас HD
 http://lobby.peaktv.name/balancer/bigteisti2/KinoUzas/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кино | Cinema" tvg-id="elb240" tvg-name="Киносвидание HD" tvg-logo="http://peaktv.su/img/logos/films/kinosvidanie.png" catchup="flussonic" catchup-days="3", Киносвидание HD
 http://lobby.peaktv.name/balancer/bigteisti10/KINOSVIDANIE/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кино | Cinema" tvg-id="elb243" tvg-name="Киносерия HD" tvg-logo="http://peaktv.su/img/logos/films/kinoseria.png" catchup="flussonic" catchup-days="3", Киносерия HD
 http://lobby.peaktv.name/balancer/bigteisti6/kinoseriya/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
-#EXTINF:-1 group-title="Кино | Cinema" tvg-id="elb233" tvg-name="Киномикс HD" tvg-logo="http://peaktv.su/img/logos/films/kinomiks.png" catchup="flussonic" catchup-days="3", Киномикс HD
-http://lobby.peaktv.name/balancer/bigteisti10/KINOMIKS/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кино | Cinema" tvg-id="elb295" tvg-name="Мужское кино HD" tvg-logo="http://peaktv.su/img/logos/films/muzhskoe-kino.png" catchup="flussonic" catchup-days="3", Мужское кино HD
 http://lobby.peaktv.name/balancer/bigteisti2/muzhskoekino/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кино | Cinema" tvg-id="elb312" tvg-name="Наше Новое кино HD" tvg-logo="http://peaktv.su/img/logos/films/nashe-novoe-kino.png" catchup="flussonic" catchup-days="3", Наше Новое кино HD
 http://lobby.peaktv.name/balancer/bigteisti3/nashenovoekino/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кино | Cinema" tvg-id="elb362" tvg-name="Родное кино" tvg-logo="http://peaktv.su/img/logos/films/rodnoe-kino.png" catchup="flussonic" catchup-days="3", Родное кино
 http://lobby.peaktv.name/balancer/bigteisti2/rodnoe_kino/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кино | Cinema" tvg-id="elb2237" tvg-name="Киноменю HD" tvg-logo="http://peaktv.su/img/logos/films/kinomenu.png", Киноменю HD
+http://lobby.peaktv.name/balancer/bigteisti2/a2lub21lbnU/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кино | Cinema" tvg-id="elb2835" tvg-name="Советское кино" tvg-logo="http://peaktv.su/img/logos/films/sovkino.png" catchup="flussonic" catchup-days="3", Советское кино
 http://lobby.peaktv.name/balancer/bigteisti10/SOVKINO/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кино | Cinema" tvg-id="elb717" tvg-name="4ever Cinema HD" tvg-logo="https://epg.iptvx.one/picons/4ever-cinema.png" catchup="flussonic" catchup-days="3", 4ever Cinema HD
+http://lobby.peaktv.name/balancer/bigteisti19/08946929/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кино | Cinema" tvg-id="elb718" tvg-name="4ever Drama HD" tvg-logo="https://epg.iptvx.one/picons/4ever-drama.png" catchup="flussonic" catchup-days="3", 4ever Drama HD
+http://lobby.peaktv.name/balancer/bigteisti19/08946930/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кино | Cinema" tvg-id="elb720" tvg-name="4ever Theater HD" tvg-logo="https://epg.iptvx.one/picons/4ever-theater.png" catchup="flussonic" catchup-days="3", 4ever Theater HD
+http://lobby.peaktv.name/balancer/bigteisti19/08946931/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кино | Cinema" tvg-id="elb232" tvg-name="Киноман" tvg-logo="http://peaktv.su/img/logos/films/kinosat.png" catchup="flussonic" catchup-days="3", Киноман
 http://lobby.peaktv.name/balancer/bigteisti2/a2lub3NhdA/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кино | Cinema" tvg-name="КиноКульт HD" tvg-logo="https://epg.iptvx.one/picons/kinokult.png", КиноКульт HD
 http://lobby.peaktv.name/balancer/bigteisti19/08946925/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кино | Cinema" tvg-id="elb249" tvg-name="Комедия" tvg-logo="http://peaktv.su/img/logos/films/komedia.png" catchup="flussonic" catchup-days="3", Комедия
 http://lobby.peaktv.name/balancer/bigteisti9/COMEDIA/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кино | Cinema" tvg-id="elb5" tvg-name=". Sci-Fi" tvg-logo="http://peaktv.su/img/logos/films/sony-scifi.png" catchup="flussonic" catchup-days="3", . Sci-Fi
+http://lobby.peaktv.name/balancer/bigteisti10/SCIFI/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кино | Cinema" tvg-id="elb4" tvg-name=". Red HD" tvg-logo="http://peaktv.su/img/logos/films/sony.png" catchup="flussonic" catchup-days="3", . Red HD
+http://lobby.peaktv.name/balancer/bigteisti10/RED/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кино | Cinema" tvg-id="elb2" tvg-name=". black" tvg-logo="http://peaktv.su/img/logos/films/sony-turbo.png" catchup="flussonic" catchup-days="3", . black
+http://lobby.peaktv.name/balancer/bigteisti9/black/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кино | Cinema" tvg-id="elb318" tvg-name="НСТ" tvg-logo="http://peaktv.su/img/logos/films/nst.png" catchup="flussonic" catchup-days="3", НСТ
+http://lobby.peaktv.name/balancer/bigteisti10/NST/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кино | Cinema" tvg-id="elb137" tvg-name="Trash HD" tvg-logo="http://peaktv.su/img/logos/films/trashtv.png" catchup="flussonic" catchup-days="3", Trash HD
 http://lobby.peaktv.name/balancer/bigteisti10/TRASH/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
-#EXTINF:-1 group-title="Кино | Cinema" tvg-id="elb72" tvg-name="Hollywood" tvg-logo="http://peaktv.su/img/logos/films/hollywood.png" catchup="flussonic" catchup-days="3", Hollywood
-http://lobby.peaktv.name/balancer/bigteisti10/HOLLYWOOD/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кино | Cinema" tvg-id="elb308" tvg-name="Наш Кинопоказ HD" tvg-logo="http://peaktv.su/img/logos/films/nash-kinopokaz.png" catchup="flussonic" catchup-days="3", Наш Кинопоказ HD
 http://lobby.peaktv.name/balancer/bigteisti2/nashkinopokaz/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кино | Cinema" tvg-id="elb262" tvg-name="Наше любимое кино" tvg-logo="http://peaktv.su/img/logos/films/lubimoe-kino.png" catchup="flussonic" catchup-days="3", Наше любимое кино
@@ -469,6 +617,8 @@ http://lobby.peaktv.name/balancer/bigteisti10/BOLT/ZGVuaXMxMjIzfHxSR1Z1YVhOcllUR
 http://lobby.peaktv.name/balancer/bigteisti2/MIRSERIALA/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кино | Cinema" tvg-id="elb168" tvg-name="Арсенал HD" tvg-logo="http://peaktv.su/img/logos/films/arsenaltv.png" catchup="flussonic" catchup-days="3", Арсенал HD
 http://lobby.peaktv.name/balancer/bigteisti10/ARSENAL/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кино | Cinema" tvg-id="elb30" tvg-name="Bollywood HD" tvg-logo="http://peaktv.su/img/logos/films/bollywood-hd.png" catchup="flussonic" catchup-days="3", Bollywood HD
+http://lobby.peaktv.name/balancer/bigteisti13/BOLLYWOOD/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кино | Cinema" tvg-id="elb21" tvg-name="Amedia Hit HD" tvg-logo="http://peaktv.su/img/logos/films/amedia-hit.png" catchup="flussonic" catchup-days="3", Amedia Hit HD
 http://lobby.peaktv.name/balancer/bigteisti9/ahomeofhbo1/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кино | Cinema" tvg-id="elb22" tvg-name="Amedia Premium HD" tvg-logo="http://peaktv.su/img/logos/films/amedia-premium.png" catchup="flussonic" catchup-days="3", Amedia Premium HD
@@ -587,14 +737,18 @@ http://lobby.peaktv.name/balancer/bigteisti8/true_crime_hd/ZGVuaXMxMjIzfHxSR1Z1Y
 http://lobby.peaktv.name/balancer/bigteisti20/09946904/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кино | Cinema" tvg-id="elb407" tvg-name="TV | 21" tvg-logo="http://peaktv.su/img/logos/films/tvxxi.png" catchup="flussonic" catchup-days="3", TV | 21
 http://lobby.peaktv.name/balancer/bigteisti1/08936902/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
-#EXTINF:-1 group-title="Кино | Cinema" tvg-id="elb2902" tvg-name="СТРК" tvg-logo="http://peaktv.su/img/logos/films/strk.png", СТРК
-http://lobby.peaktv.name/balancer/bigteisti6/strk_HD/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb597" tvg-name="CineMan OLD4k" tvg-logo="http://peaktv.su/img/logos/cineman/CineMan-Old4K.png" catchup="flussonic" catchup-days="3", CineMan OLD4k
+http://lobby.peaktv.name/balancer/bigteisti2/08946966/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb578" tvg-name="CineMan CCCP 4K" tvg-logo="http://peaktv.su/img/logos/cineman/Cineman-CCCP4K.png" catchup="flussonic" catchup-days="3", CineMan CCCP 4K
+http://lobby.peaktv.name/balancer/bigteisti2/08946991/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb579" tvg-name="CineMan" tvg-logo="http://peaktv.su/img/logos/cineman/CineMan.png" catchup="flussonic" catchup-days="3", CineMan
 http://lobby.peaktv.name/balancer/bigteisti2/08946981/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb581" tvg-name="CineMan Premium" tvg-logo="http://peaktv.su/img/logos/cineman/CineManPremium.png" catchup="flussonic" catchup-days="3", CineMan Premium
 http://lobby.peaktv.name/balancer/bigteisti2/08946977/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb589" tvg-name="CineMan Top" tvg-logo="http://peaktv.su/img/logos/cineman/CineMan-TOP.png" catchup="flussonic" catchup-days="3", CineMan Top
 http://lobby.peaktv.name/balancer/bigteisti2/08946969/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb4741" tvg-name="CineMan CCCP FHD" tvg-logo="http://peaktv.su/img/logos/cineman/CINEMANSSSRFHD200.png" catchup="flussonic" catchup-days="3", CineMan CCCP FHD
+http://lobby.peaktv.name/balancer/bigteisti2/08946997/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb598" tvg-name="CineMan РуКино" tvg-logo="http://peaktv.su/img/logos/cineman/CineMan-RuKino.png" catchup="flussonic" catchup-days="3", CineMan РуКино
 http://lobby.peaktv.name/balancer/bigteisti2/08946982/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb599" tvg-name="CineMan Комедийные сериалы" tvg-logo="http://peaktv.su/img/logos/cineman/CineMan-RUSerials.png" catchup="flussonic" catchup-days="3", CineMan Комедийные сериалы
@@ -631,6 +785,16 @@ http://lobby.peaktv.name/balancer/bigteisti2/08946986/ZGVuaXMxMjIzfHxSR1Z1YVhOcl
 http://lobby.peaktv.name/balancer/bigteisti2/08946974/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb573" tvg-name="CineMan Скорая помощь" tvg-logo="http://peaktv.su/img/logos/cineman/CineMan-ER.png" catchup="flussonic" catchup-days="3", CineMan Скорая помощь
 http://lobby.peaktv.name/balancer/bigteisti2/08946971/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb455" tvg-name="Yosso 4K" tvg-logo="http://peaktv.su/img/logos/yosso_tv/yosso-4k.png" catchup="flussonic" catchup-days="3", Yosso 4K
+http://lobby.peaktv.name/balancer/bigteisti1/Y-4K/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb461" tvg-name="Yosso TV 4K HDR" tvg-logo="http://peaktv.su/img/logos/yosso_tv/yossohdr4k.png" catchup="flussonic" catchup-days="3", Yosso TV 4K HDR
+http://lobby.peaktv.name/balancer/bigteisti1/Y-4K_HDR/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb477" tvg-name="Yosso TV Советские фильмы 4K" tvg-logo="http://peaktv.su/img/logos/yosso_tv/yosso-sssr_4K.png" catchup="flussonic" catchup-days="3", Yosso TV Советские фильмы 4K
+http://lobby.peaktv.name/balancer/bigteisti1/Y-SSSR_4K/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb445" tvg-name="Yosso TV BEST 60 FPS BOX" tvg-logo="http://peaktv.su/img/logos/yosso_tv/best_60fps.png" catchup="flussonic" catchup-days="3", Yosso TV BEST 60 FPS BOX
+http://lobby.peaktv.name/balancer/bigteisti1/08936923/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb446" tvg-name="Yosso TV BEST 60 FPS" tvg-logo="http://peaktv.su/img/logos/yosso_tv/best_60fps.png" catchup="flussonic" catchup-days="3", Yosso TV BEST 60 FPS
+http://lobby.peaktv.name/balancer/bigteisti1/Y-BEST_60FPS/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb469" tvg-name="Yosso TV Netflix" tvg-logo="http://peaktv.su/img/logos/yosso_tv/yosso-netflix.png" catchup="flussonic" catchup-days="3", Yosso TV Netflix
 http://lobby.peaktv.name/balancer/bigteisti1/Y-NETFLIX/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb453" tvg-name="Yosso TV Grand" tvg-logo="http://peaktv.su/img/logos/yosso_tv/yosso-grand.png" catchup="flussonic" catchup-days="3", Yosso TV Grand
@@ -673,38 +837,156 @@ http://lobby.peaktv.name/balancer/bigteisti1/C-INQUEST1/ZGVuaXMxMjIzfHxSR1Z1YVhO
 http://lobby.peaktv.name/balancer/bigteisti1/08936905/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb448" tvg-name="C-History HD" tvg-logo="http://peaktv.su/img/logos/yossotv/YOSSOCHISTORY200.png" catchup="flussonic" catchup-days="3", C-History HD
 http://lobby.peaktv.name/balancer/bigteisti8/Y-C-HISTORY/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb3623" tvg-name="BOX СССР 4K" tvg-logo="http://peaktv.su/img/logos/box/sssr4k-hdr.png" catchup="flussonic" catchup-days="3", BOX СССР 4K
+http://lobby.peaktv.name/balancer/bigteisti13/jk_Legend/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb4711" tvg-name="BOX RUSSIAN 4K" tvg-logo="http://peaktv.su/img/logos/box/russian4k.png" catchup="flussonic" catchup-days="3", BOX RUSSIAN 4K
+http://lobby.peaktv.name/balancer/bigteisti13/hi_Flow/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb3589" tvg-name="BOX PREMIERE 4K" tvg-logo="http://peaktv.su/img/logos/box/premiere4k.png" catchup="flussonic" catchup-days="3", BOX PREMIERE 4K
+http://lobby.peaktv.name/balancer/bigteisti13/zeta_YX/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb3598" tvg-name="BOX SERIAL PREMIERE 4K HDR" tvg-logo="http://peaktv.su/img/logos/box/serial4k.png" catchup="flussonic" catchup-days="3", BOX SERIAL PREMIERE 4K HDR
+http://lobby.peaktv.name/balancer/bigteisti13/ij_Star13/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb3592" tvg-name="BOX REMAST 4K" tvg-logo="http://peaktv.su/img/logos/box/remast4k.png" catchup="flussonic" catchup-days="3", BOX REMAST 4K
+http://lobby.peaktv.name/balancer/bigteisti13/lambda_AZ/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb3593" tvg-name="BOX REMAST+ 4K" tvg-logo="http://peaktv.su/img/logos/box/remast+4k.png" catchup="flussonic" catchup-days="3", BOX REMAST+ 4K
+http://lobby.peaktv.name/balancer/bigteisti13/rho_beta9/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb3596" tvg-name="BOX SERIAL 4K" tvg-logo="http://peaktv.su/img/logos/box/serial4k.png" catchup="flussonic" catchup-days="3", BOX SERIAL 4K
+http://lobby.peaktv.name/balancer/bigteisti13/theta_T1/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb4830" tvg-name="BOX Franchise HD HDR" tvg-logo="http://peaktv.su/img/logos/box/franchise-hdr.png" catchup="flussonic" catchup-days="3", BOX Franchise HD HDR
+http://lobby.peaktv.name/balancer/bigteisti13/micron_v1/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb3599" tvg-name="BOX Sitcom HD" tvg-logo="http://peaktv.su/img/logos/box/sitcom.png" catchup="flussonic" catchup-days="3", BOX Sitcom HD
+http://lobby.peaktv.name/balancer/bigteisti13/kappa_12_34/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb3563" tvg-name="BOX Apocalypse HD" tvg-logo="http://peaktv.su/img/logos/box/apocalypse.png" catchup="flussonic" catchup-days="3", BOX Apocalypse HD
+http://lobby.peaktv.name/balancer/bigteisti13/sigma_5X/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb4880" tvg-name="BOX Franchise HD" tvg-logo="http://peaktv.su/img/logos/box/franchise.png" catchup="flussonic" catchup-days="3", BOX Franchise HD
+http://lobby.peaktv.name/balancer/bigteisti13/xi_Tiger/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb3579" tvg-name="BOX Hybrid HD" tvg-logo="http://peaktv.su/img/logos/box/hybrid.png" catchup="flussonic" catchup-days="3", BOX Hybrid HD
+http://lobby.peaktv.name/balancer/bigteisti13/eta_42/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb3575" tvg-name="BOX Gangster HD" tvg-logo="http://peaktv.su/img/logos/box/gangster.png" catchup="flussonic" catchup-days="3", BOX Gangster HD
+http://lobby.peaktv.name/balancer/bigteisti13/tau_303/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb3588" tvg-name="BOX Oscar HD" tvg-logo="http://peaktv.su/img/logos/box/oscar.png" catchup="flussonic" catchup-days="3", BOX Oscar HD
+http://lobby.peaktv.name/balancer/bigteisti13/phi_Star/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb3584" tvg-name="BOX Memory HD" tvg-logo="http://peaktv.su/img/logos/box/memory.png" catchup="flussonic" catchup-days="3", BOX Memory HD
+http://lobby.peaktv.name/balancer/bigteisti13/chi_77X/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb3597" tvg-name="BOX Serial HD" tvg-logo="http://peaktv.su/img/logos/box/serial.png" catchup="flussonic" catchup-days="3", BOX Serial HD
+http://lobby.peaktv.name/balancer/bigteisti13/az_004/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb3610" tvg-name="BOX Spy HD" tvg-logo="http://peaktv.su/img/logos/box/spy.png" catchup="flussonic" catchup-days="3", BOX Spy HD
+http://lobby.peaktv.name/balancer/bigteisti13/bz_ABC/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb3620" tvg-name="BOX Western HD" tvg-logo="http://peaktv.su/img/logos/box/western.png" catchup="flussonic" catchup-days="3", BOX Western HD
+http://lobby.peaktv.name/balancer/bigteisti13/cz_789/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb3621" tvg-name="BOX Zombie HD" tvg-logo="http://peaktv.su/img/logos/box/zombie.png" catchup="flussonic" catchup-days="3", BOX Zombie HD
+http://lobby.peaktv.name/balancer/bigteisti13/dz_XYZ/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb3569" tvg-name="BOX Cyber HD" tvg-logo="http://peaktv.su/img/logos/box/cyber.png" catchup="flussonic" catchup-days="3", BOX Cyber HD
+http://lobby.peaktv.name/balancer/bigteisti13/ez_2023/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb3571" tvg-name="BOX Fantasy HD" tvg-logo="http://peaktv.su/img/logos/box/fantasy.png" catchup="flussonic" catchup-days="3", BOX Fantasy HD
+http://lobby.peaktv.name/balancer/bigteisti13/fz_01B/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb3576" tvg-name="BOX Ghost HD" tvg-logo="http://peaktv.su/img/logos/box/ghost.png" catchup="flussonic" catchup-days="3", BOX Ghost HD
+http://lobby.peaktv.name/balancer/bigteisti13/hz_A22/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb4313" tvg-name="VeleS 60 FPS" tvg-logo="http://peaktv.su/img/logos/kinoInt/veles/VELES_60FPS_normal.png" catchup="flussonic" catchup-days="3", VeleS 60 FPS
 http://lobby.peaktv.name/balancer/bigteisti1/VELES_60FPS/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
-#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb4319" tvg-name="VeleS Семейный" tvg-logo="http://peaktv.su/logo/veles_family_new.png", VeleS Семейный
-http://lobby.peaktv.name/balancer/bigteisti8/08936909/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb4308" tvg-name="VeleS Premiere" tvg-logo="http://peaktv.su/img/logos/kinoInt/veles/veles_premiere.png" catchup="flussonic" catchup-days="3", VeleS Premiere
 http://lobby.peaktv.name/balancer/bigteisti1/VELES_PREMIERE/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb4310" tvg-name="VeleS Movie Hits" tvg-logo="http://peaktv.su/img/logos/kinoInt/veles/Veles_Movies_Hits.png" catchup="flussonic" catchup-days="3", VeleS Movie Hits
 http://lobby.peaktv.name/balancer/bigteisti1/VELES_MOVIE_HITS/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb4317" tvg-name="VeleS Аниме" tvg-logo="http://peaktv.su/logo/veles_anime_new.png", VeleS Аниме
+http://lobby.peaktv.name/balancer/bigteisti1/08936904/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb4307" tvg-name="VeleS Страшное" tvg-logo="http://peaktv.su/img/logos/kinoInt/veles/veles_strashnoe.png" catchup="flussonic" catchup-days="3", VeleS Страшное
 http://lobby.peaktv.name/balancer/bigteisti1/VELES_STRASHNOE/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb4318" tvg-name="VeleS Триллер" tvg-logo="http://peaktv.su/logo/veles_triller_new.png" catchup="flussonic" catchup-days="3", VeleS Триллер
 http://lobby.peaktv.name/balancer/bigteisti2/08936925/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb4304" tvg-name="VeleS Криминальный" tvg-logo="http://peaktv.su/img/logos/kinoInt/veles/veles_criminal_normal.png" catchup="flussonic" catchup-days="3", VeleS Криминальный
 http://lobby.peaktv.name/balancer/bigteisti1/VELES_CRIMINAL/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
-#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb4317" tvg-name="VeleS Аниме" tvg-logo="http://peaktv.su/logo/veles_anime_new.png", VeleS Аниме
-http://lobby.peaktv.name/balancer/bigteisti1/08936904/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb4316" tvg-name="VeleS Наше Кино" tvg-logo="http://peaktv.su/logo/veles_our_cinema_new.png" catchup="flussonic" catchup-days="3", VeleS Наше Кино
 http://lobby.peaktv.name/balancer/bigteisti8/08936911/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb4315" tvg-name="VeleS Комедия" tvg-logo="http://peaktv.su/logo/veles_comedy_new.png" catchup="flussonic" catchup-days="3", VeleS Комедия
 http://lobby.peaktv.name/balancer/bigteisti1/08936901/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb4320" tvg-name="VeleS Вестерн" tvg-logo="http://peaktv.su/logo/veles_vestern_new.png" catchup="flussonic" catchup-days="3", VeleS Вестерн
+http://lobby.peaktv.name/balancer/bigteisti8/08936910/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb4319" tvg-name="VeleS Семейный" tvg-logo="http://peaktv.su/logo/veles_family_new.png", VeleS Семейный
+http://lobby.peaktv.name/balancer/bigteisti8/08936909/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb4309" tvg-name="VeleS Киноплёнка" tvg-logo="http://peaktv.su/img/logos/kinoInt/veles/veles_kinoplenka_normal.png" catchup="flussonic" catchup-days="3", VeleS Киноплёнка
 http://lobby.peaktv.name/balancer/bigteisti1/VELES_KINOPLENKA/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb4306" tvg-name="VeleS Киносерия" tvg-logo="http://peaktv.su/img/logos/kinoInt/veles/veles_kinoseries.png" catchup="flussonic" catchup-days="3", VeleS Киносерия
 http://lobby.peaktv.name/balancer/bigteisti1/VELES_KINOSERIES/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
-#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb4320" tvg-name="VeleS Вестерн" tvg-logo="http://peaktv.su/logo/veles_vestern_new.png" catchup="flussonic" catchup-days="3", VeleS Вестерн
-http://lobby.peaktv.name/balancer/bigteisti8/08936910/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb4303" tvg-name="VeleS СССР" tvg-logo="http://peaktv.su/img/logos/kinoInt/veles/veles_sssr_normal.png" catchup="flussonic" catchup-days="3", VeleS СССР
 http://lobby.peaktv.name/balancer/bigteisti1/VELES_USSSR/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb4321" tvg-name="Veles Гоблин" tvg-logo="http://peaktv.su/img/logos/veles/VELESGOBLIN200.png" catchup="flussonic" catchup-days="3", Veles Гоблин
 http://lobby.peaktv.name/balancer/bigteisti10/08946972/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb4314" tvg-name="Veles С Новым Годом!", Veles С Новым Годом!
 http://lobby.peaktv.name/balancer/bigteisti10/08946973/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb615" tvg-name="LIBERTY ЛЕГЕНДА 4K" tvg-logo="http://peaktv.su/img/logos/liberty/liberty-legenda.png" catchup="flussonic" catchup-days="3", LIBERTY ЛЕГЕНДА 4K
+http://lobby.peaktv.name/balancer/bigteisti2/08946934/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb622" tvg-name="LIBERTY РУСФИЛЬМ 4K" tvg-logo="http://peaktv.su/img/logos/liberty/liberty-rusfilm.png" catchup="flussonic" catchup-days="3", LIBERTY РУСФИЛЬМ 4K
+http://lobby.peaktv.name/balancer/bigteisti2/08946937/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb626" tvg-name="LIBERTY СОЮЗ 4K" tvg-logo="http://peaktv.su/img/logos/liberty/liberty-soyuz.png" catchup="flussonic" catchup-days="3", LIBERTY СОЮЗ 4K
+http://lobby.peaktv.name/balancer/bigteisti2/08946944/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb612" tvg-name="LIBERTY КИНОМИКС 4K" tvg-logo="http://peaktv.su/img/logos/liberty/liberty-kinomiks.png" catchup="flussonic" catchup-days="3", LIBERTY КИНОМИКС 4K
+http://lobby.peaktv.name/balancer/bigteisti2/08946938/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb621" tvg-name="LIBERTY NETFLIX 4K" tvg-logo="http://peaktv.su/img/logos/liberty/liberty-netflix.png" catchup="flussonic" catchup-days="3", LIBERTY NETFLIX 4K
+http://lobby.peaktv.name/balancer/bigteisti2/08946941/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb623" tvg-name="LIBERTY СЕМЕЙНЫЙ 4K" tvg-logo="http://peaktv.su/img/logos/liberty/liberty-semejny.png" catchup="flussonic" catchup-days="3", LIBERTY СЕМЕЙНЫЙ 4K
+http://lobby.peaktv.name/balancer/bigteisti2/08946943/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb628" tvg-name="LIBERTY XX ВЕК 4K" tvg-logo="http://peaktv.su/img/logos/liberty/liberty-xxvek.png" catchup="flussonic" catchup-days="3", LIBERTY XX ВЕК 4K
+http://lobby.peaktv.name/balancer/bigteisti2/08946950/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb629" tvg-name="LIBERTY КУБ 4K" tvg-logo="http://peaktv.su/img/logos/liberty/liberty-kub.png" catchup="flussonic" catchup-days="3", LIBERTY КУБ 4K
+http://lobby.peaktv.name/balancer/bigteisti2/08946942/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb624" tvg-name="LIBERTY СЕРИАЛЫ 4K" tvg-logo="http://peaktv.su/img/logos/liberty/liberty-serialy.png" catchup="flussonic" catchup-days="3", LIBERTY СЕРИАЛЫ 4K
+http://lobby.peaktv.name/balancer/bigteisti2/08946948/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb653" tvg-name="LIBERTY ТРИЛЛЕРЫ 4K" tvg-logo="http://peaktv.su/img/logos/liberty/liberty-trillery.png" catchup="flussonic" catchup-days="3", LIBERTY ТРИЛЛЕРЫ 4K
+http://lobby.peaktv.name/balancer/bigteisti2/08946946/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb609" tvg-name="LIBERTY КРИМИНАЛ 4K" tvg-logo="http://peaktv.su/img/logos/liberty/liberty-kriminal.png" catchup="flussonic" catchup-days="3", LIBERTY КРИМИНАЛ 4K
+http://lobby.peaktv.name/balancer/bigteisti2/08946949/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb654" tvg-name="LIBERTY УЖАСЫ 4K" tvg-logo="http://peaktv.su/img/logos/liberty/liberty-uzhasy.png" catchup="flussonic" catchup-days="3", LIBERTY УЖАСЫ 4K
+http://lobby.peaktv.name/balancer/bigteisti2/08946947/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb611" tvg-name="LIBERTY ИНДИЯ 4K" tvg-logo="http://peaktv.su/img/logos/liberty/liberty-india.png" catchup="flussonic" catchup-days="3", LIBERTY ИНДИЯ 4K
+http://lobby.peaktv.name/balancer/bigteisti2/08946940/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb627" tvg-name="LIBERTY TURKFILM 4K" tvg-logo="http://peaktv.su/img/logos/liberty/liberty-turkfilm.png" catchup="flussonic" catchup-days="3", LIBERTY TURKFILM 4K
+http://lobby.peaktv.name/balancer/bigteisti2/08946952/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb608" tvg-name="LIBERTY АВАНПОСТ 4K" tvg-logo="http://peaktv.su/img/logos/liberty/liberty-avanpost.png" catchup="flussonic" catchup-days="3", LIBERTY АВАНПОСТ 4K
+http://lobby.peaktv.name/balancer/bigteisti2/08946951/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb658" tvg-name="LIBERTY МЮЗИКЛ 4K" tvg-logo="http://peaktv.su/img/logos/liberty/liberty-muzikl.png" catchup="flussonic" catchup-days="3", LIBERTY МЮЗИКЛ 4K
+http://lobby.peaktv.name/balancer/bigteisti2/08946954/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb4733" tvg-name="LIBERTY МЕДИВАЛ 4K" tvg-logo="http://peaktv.su/img/logos/liberty/medival.png" catchup="flussonic" catchup-days="3", LIBERTY МЕДИВАЛ 4K
+http://lobby.peaktv.name/balancer/bigteisti2/08946995/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb644" tvg-name="LIBERTY MARVEL FHD" tvg-logo="http://peaktv.su/img/logos/liberty/liberty-marvel.png" catchup="flussonic" catchup-days="3", LIBERTY MARVEL FHD
+http://lobby.peaktv.name/balancer/bigteisti2/08946945/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb637" tvg-name="LIBERTY DC FHD" tvg-logo="http://peaktv.su/img/logos/liberty/liberty-dc.png" catchup="flussonic" catchup-days="3", LIBERTY DC FHD
+http://lobby.peaktv.name/balancer/bigteisti20/08946903/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb636" tvg-name="LIBERTY БОЕВИКИ FHD" tvg-logo="http://peaktv.su/img/logos/liberty/liberty-boeviki.png" catchup="flussonic" catchup-days="3", LIBERTY БОЕВИКИ FHD
+http://lobby.peaktv.name/balancer/bigteisti2/08946908/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb641" tvg-name="LIBERTY КОМЕДИИ FHD" tvg-logo="http://peaktv.su/img/logos/liberty/liberty-komedii.png" catchup="flussonic" catchup-days="3", LIBERTY КОМЕДИИ FHD
+http://lobby.peaktv.name/balancer/bigteisti2/08946913/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb642" tvg-name="LIBERTY КОРОТКОМЕТРАЖНОЕ FHD" tvg-logo="http://peaktv.su/img/logos/liberty/liberty-korotkometr.png" catchup="flussonic" catchup-days="3", LIBERTY КОРОТКОМЕТРАЖНОЕ FHD
+http://lobby.peaktv.name/balancer/bigteisti2/08946904/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb645" tvg-name="LIBERTY МЕЛОДРАМЫ FHD" tvg-logo="http://peaktv.su/img/logos/liberty/liberty-melodramy.png" catchup="flussonic" catchup-days="3", LIBERTY МЕЛОДРАМЫ FHD
+http://lobby.peaktv.name/balancer/bigteisti2/08946907/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb652" tvg-name="LIBERTY СВАТЫ FHD" tvg-logo="http://peaktv.su/img/logos/liberty/liberty-svaty.png" catchup="flussonic" catchup-days="3", LIBERTY СВАТЫ FHD
+http://lobby.peaktv.name/balancer/bigteisti2/08946910/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb610" tvg-name="LIBERTY FAN FHD" tvg-logo="http://peaktv.su/img/logos/liberty/liberty-fan.png" catchup="flussonic" catchup-days="3", LIBERTY FAN FHD
+http://lobby.peaktv.name/balancer/bigteisti2/08946923/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb657" tvg-name="LIBERTY ЮЖНЫЙ ПАРК FHD" tvg-logo="http://peaktv.su/img/logos/liberty/liberty-southpark.png" catchup="flussonic" catchup-days="3", LIBERTY ЮЖНЫЙ ПАРК FHD
+http://lobby.peaktv.name/balancer/bigteisti2/08946912/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb655" tvg-name="LIBERTY ЗАНАВЕС FHD" tvg-logo="http://peaktv.su/img/logos/liberty/liberty-zanaves.png" catchup="flussonic" catchup-days="3", LIBERTY ЗАНАВЕС FHD
+http://lobby.peaktv.name/balancer/bigteisti2/08946917/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb650" tvg-name="LIBERTY СЕРИАЛ FHD" tvg-logo="http://peaktv.su/img/logos/liberty/liberty-serial.png" catchup="flussonic" catchup-days="3", LIBERTY СЕРИАЛ FHD
+http://lobby.peaktv.name/balancer/bigteisti2/08946920/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb616" tvg-name="LIBERTY МИМ FHD" tvg-logo="http://peaktv.su/img/logos/liberty/liberty-mim.png" catchup="flussonic" catchup-days="3", LIBERTY МИМ FHD
+http://lobby.peaktv.name/balancer/bigteisti2/08946922/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb649" tvg-name="LIBERTY ПЛАНКТОН FHD" tvg-logo="http://peaktv.su/img/logos/liberty/liberty-plankton.png" catchup="flussonic" catchup-days="3", LIBERTY ПЛАНКТОН FHD
+http://lobby.peaktv.name/balancer/bigteisti2/08946928/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb640" tvg-name="LIBERTY KINO ENG FHD" tvg-logo="http://peaktv.su/img/logos/liberty/liberty-kinoeng.png" catchup="flussonic" catchup-days="3", LIBERTY KINO ENG FHD
+http://lobby.peaktv.name/balancer/bigteisti2/08946924/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb556" tvg-name="MM Flip UHD" tvg-logo="http://peaktv.su/img/logos/minimax/1005.png" catchup="flussonic" catchup-days="3", MM Flip UHD
+http://lobby.peaktv.name/balancer/bigteisti13/minimax_flip/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb561" tvg-name="MS MAGIC 4K" tvg-logo="http://peaktv.su/img/logos/minimax/1077.png" catchup="flussonic" catchup-days="3", MS MAGIC 4K
+http://lobby.peaktv.name/balancer/bigteisti13/minimax_msmagic/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb483" tvg-name="MM 007 HD" tvg-logo="http://peaktv.su/img/logos/minimax/1001.png" catchup="flussonic" catchup-days="3", MM 007 HD
+http://lobby.peaktv.name/balancer/bigteisti13/minimax_007/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb509" tvg-name="MM Боевик HD" tvg-logo="http://peaktv.su/img/logos/minimax/1032.png" catchup="flussonic" catchup-days="3", MM Боевик HD
+http://lobby.peaktv.name/balancer/bigteisti13/minimax_boevik/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb508" tvg-name="MM Боевик Classic HD" tvg-logo="http://peaktv.su/img/logos/minimax/1031.png" catchup="flussonic" catchup-days="3", MM Боевик Classic HD
+http://lobby.peaktv.name/balancer/bigteisti13/minimax_boevik_classic/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb510" tvg-name="MM Вестерн HD" tvg-logo="http://peaktv.su/img/logos/minimax/1033.png" catchup="flussonic" catchup-days="3", MM Вестерн HD
+http://lobby.peaktv.name/balancer/bigteisti13/minimax_western/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb490" tvg-name="MM NewFilm 1 HD" tvg-logo="http://peaktv.su/img/logos/minimax/1010.png" catchup="flussonic" catchup-days="3", MM NewFilm 1 HD
 http://lobby.peaktv.name/balancer/bigteisti13/minimax_newfilm_1/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb491" tvg-name="MM NewFilm 2 HD" tvg-logo="http://peaktv.su/img/logos/minimax/1011.png" catchup="flussonic" catchup-days="3", MM NewFilm 2 HD
@@ -723,46 +1005,36 @@ http://lobby.peaktv.name/balancer/bigteisti13/minimax_ussr_komedia/ZGVuaXMxMjIzf
 http://lobby.peaktv.name/balancer/bigteisti13/minimax_ussr_prikluchenia/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb505" tvg-name="MM USSR Драма HD" tvg-logo="http://peaktv.su/img/logos/minimax/1023.png" catchup="flussonic" catchup-days="3", MM USSR Драма HD
 http://lobby.peaktv.name/balancer/bigteisti13/minimax_ussr_fantastika/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
-#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb483" tvg-name="MM 007 HD" tvg-logo="http://peaktv.su/img/logos/minimax/1001.png" catchup="flussonic" catchup-days="3", MM 007 HD
-http://lobby.peaktv.name/balancer/bigteisti13/minimax_007/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
-#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb522" tvg-name="MM Крутые 90-е HD" tvg-logo="http://peaktv.su/img/logos/minimax/1047.png" catchup="flussonic" catchup-days="3", MM Крутые 90-е HD
-http://lobby.peaktv.name/balancer/bigteisti13/minimax_krutie_90e/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
-#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb485" tvg-name="MM Classic HD" tvg-logo="http://peaktv.su/img/logos/minimax/1003.png" catchup="flussonic" catchup-days="3", MM Classic HD
-http://lobby.peaktv.name/balancer/bigteisti13/minimax_classic/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
-#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb515" tvg-name="MM История HD" tvg-logo="http://peaktv.su/img/logos/minimax/1039.png" catchup="flussonic" catchup-days="3", MM История HD
-http://lobby.peaktv.name/balancer/bigteisti13/minimax_istoria/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb507" tvg-name="MM Агата Кристи HD" tvg-logo="http://peaktv.su/img/logos/minimax/1030.png" catchup="flussonic" catchup-days="3", MM Агата Кристи HD
+http://lobby.peaktv.name/balancer/bigteisti13/minimax_agata_kristi/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb540" tvg-name="MM Стивен Кинг HD" tvg-logo="http://peaktv.su/img/logos/minimax/1067.png" catchup="flussonic" catchup-days="3", MM Стивен Кинг HD
+http://lobby.peaktv.name/balancer/bigteisti13/minimax_stiven_king/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb489" tvg-name="MM Love HD" tvg-logo="http://peaktv.su/img/logos/minimax/1009.png" catchup="flussonic" catchup-days="3", MM Love HD
 http://lobby.peaktv.name/balancer/bigteisti13/minimax_love/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb495" tvg-name="MM Smile HD" tvg-logo="http://peaktv.su/img/logos/minimax/1017.png" catchup="flussonic" catchup-days="3", MM Smile HD
 http://lobby.peaktv.name/balancer/bigteisti13/minimax_smile/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb498" tvg-name="MM UFO HD" tvg-logo="http://peaktv.su/img/logos/minimax/1020.png" catchup="flussonic" catchup-days="3", MM UFO HD
 http://lobby.peaktv.name/balancer/bigteisti13/minimax_ufo/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
-#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb507" tvg-name="MM Агата Кристи HD" tvg-logo="http://peaktv.su/img/logos/minimax/1030.png" catchup="flussonic" catchup-days="3", MM Агата Кристи HD
-http://lobby.peaktv.name/balancer/bigteisti13/minimax_agata_kristi/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
-#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb509" tvg-name="MM Боевик HD" tvg-logo="http://peaktv.su/img/logos/minimax/1032.png" catchup="flussonic" catchup-days="3", MM Боевик HD
-http://lobby.peaktv.name/balancer/bigteisti13/minimax_boevik/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
-#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb508" tvg-name="MM Боевик Classic HD" tvg-logo="http://peaktv.su/img/logos/minimax/1031.png" catchup="flussonic" catchup-days="3", MM Боевик Classic HD
-http://lobby.peaktv.name/balancer/bigteisti13/minimax_boevik_classic/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
-#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb510" tvg-name="MM Вестерн HD" tvg-logo="http://peaktv.su/img/logos/minimax/1033.png" catchup="flussonic" catchup-days="3", MM Вестерн HD
-http://lobby.peaktv.name/balancer/bigteisti13/minimax_western/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb553" tvg-name="MM Воронины HD" tvg-logo="http://peaktv.su/img/logos/minimax/1034.png" catchup="flussonic" catchup-days="3", MM Воронины HD
 http://lobby.peaktv.name/balancer/bigteisti13/minimax_voronini/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb511" tvg-name="MM Грайндхаус HD" tvg-logo="http://peaktv.su/img/logos/minimax/1035.png" catchup="flussonic" catchup-days="3", MM Грайндхаус HD
 http://lobby.peaktv.name/balancer/bigteisti13/minimax_baiki_mitaya/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
-#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb513" tvg-name="MM Драма HD" tvg-logo="http://peaktv.su/img/logos/minimax/1037.png" catchup="flussonic" catchup-days="3", MM Драма HD
-http://lobby.peaktv.name/balancer/bigteisti13/minimax_drama/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb514" tvg-name="MM Затмение HD" tvg-logo="http://peaktv.su/img/logos/minimax/1038.png" catchup="flussonic" catchup-days="3", MM Затмение HD
 http://lobby.peaktv.name/balancer/bigteisti13/minimax_zatmenie/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb515" tvg-name="MM История HD" tvg-logo="http://peaktv.su/img/logos/minimax/1039.png" catchup="flussonic" catchup-days="3", MM История HD
+http://lobby.peaktv.name/balancer/bigteisti13/minimax_istoria/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb516" tvg-name="MM Катастрофа HD" tvg-logo="http://peaktv.su/img/logos/minimax/1040.png" catchup="flussonic" catchup-days="3", MM Катастрофа HD
 http://lobby.peaktv.name/balancer/bigteisti13/minimax_katastrofa/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb518" tvg-name="MM Киберпанк HD" tvg-logo="http://peaktv.su/img/logos/minimax/1042.png" catchup="flussonic" catchup-days="3", MM Киберпанк HD
 http://lobby.peaktv.name/balancer/bigteisti13/minimax_kiberpunk/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
-#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb519" tvg-name="MM Комедия Classic HD" tvg-logo="http://peaktv.su/img/logos/minimax/1044.png" catchup="flussonic" catchup-days="3", MM Комедия Classic HD
-http://lobby.peaktv.name/balancer/bigteisti13/minimax_comedy_classic/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb520" tvg-name="MM Комедия HD" tvg-logo="http://peaktv.su/img/logos/minimax/1045.png" catchup="flussonic" catchup-days="3", MM Комедия HD
 http://lobby.peaktv.name/balancer/bigteisti13/minimax_comedy/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb519" tvg-name="MM Комедия Classic HD" tvg-logo="http://peaktv.su/img/logos/minimax/1044.png" catchup="flussonic" catchup-days="3", MM Комедия Classic HD
+http://lobby.peaktv.name/balancer/bigteisti13/minimax_comedy_classic/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb521" tvg-name="MM Криминал HD" tvg-logo="http://peaktv.su/img/logos/minimax/1046.png" catchup="flussonic" catchup-days="3", MM Криминал HD
 http://lobby.peaktv.name/balancer/bigteisti13/minimax_kriminal/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb522" tvg-name="MM Крутые 90-е HD" tvg-logo="http://peaktv.su/img/logos/minimax/1047.png" catchup="flussonic" catchup-days="3", MM Крутые 90-е HD
+http://lobby.peaktv.name/balancer/bigteisti13/minimax_krutie_90e/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb523" tvg-name="MM Кунг-Фу HD" tvg-logo="http://peaktv.su/img/logos/minimax/1048.png" catchup="flussonic" catchup-days="3", MM Кунг-Фу HD
 http://lobby.peaktv.name/balancer/bigteisti13/minimax_kung_fu/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb527" tvg-name="MM Мифология HD" tvg-logo="http://peaktv.su/img/logos/minimax/1052.png" catchup="flussonic" catchup-days="3", MM Мифология HD
@@ -773,44 +1045,46 @@ http://lobby.peaktv.name/balancer/bigteisti13/minimax_nuar/ZGVuaXMxMjIzfHxSR1Z1Y
 http://lobby.peaktv.name/balancer/bigteisti13/minimax_pogruzhenie/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb530" tvg-name="MM Полицейский с Рублёвки HD" tvg-logo="http://peaktv.su/img/logos/minimax/1056.png" catchup="flussonic" catchup-days="3", MM Полицейский с Рублёвки HD
 http://lobby.peaktv.name/balancer/bigteisti13/minimax_pol_s_rublevki/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb537" tvg-name="MM Ситком HD" tvg-logo="http://peaktv.su/img/logos/minimax/1063.png" catchup="flussonic" catchup-days="3", MM Ситком HD
+http://lobby.peaktv.name/balancer/bigteisti13/minimax_sitcom/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb555" tvg-name="MM Ситком 2.0 HD" tvg-logo="http://peaktv.su/img/logos/minimax/1064.png" catchup="flussonic" catchup-days="3", MM Ситком 2.0 HD
+http://lobby.peaktv.name/balancer/bigteisti13/minimax_olga/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb533" tvg-name="MM Сваты HD" tvg-logo="http://peaktv.su/img/logos/minimax/1059.png" catchup="flussonic" catchup-days="3", MM Сваты HD
+http://lobby.peaktv.name/balancer/bigteisti13/minimax_svati/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb531" tvg-name="MM Приключения HD" tvg-logo="http://peaktv.su/img/logos/minimax/1057.png" catchup="flussonic" catchup-days="3", MM Приключения HD
 http://lobby.peaktv.name/balancer/bigteisti13/minimax_prikluchenia/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb532" tvg-name="MM Роскино HD" tvg-logo="http://peaktv.su/img/logos/minimax/1058.png" catchup="flussonic" catchup-days="3", MM Роскино HD
 http://lobby.peaktv.name/balancer/bigteisti13/minimax_roskino/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
-#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb533" tvg-name="MM Сваты HD" tvg-logo="http://peaktv.su/img/logos/minimax/1059.png" catchup="flussonic" catchup-days="3", MM Сваты HD
-http://lobby.peaktv.name/balancer/bigteisti13/minimax_svati/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb534" tvg-name="MM Семейный 1 HD" tvg-logo="http://peaktv.su/img/logos/minimax/1060.png" catchup="flussonic" catchup-days="3", MM Семейный 1 HD
 http://lobby.peaktv.name/balancer/bigteisti13/minimax_family_1/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb535" tvg-name="MM Семейный 2 HD" tvg-logo="http://peaktv.su/img/logos/minimax/1061.png" catchup="flussonic" catchup-days="3", MM Семейный 2 HD
 http://lobby.peaktv.name/balancer/bigteisti13/minimax_family_2/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb536" tvg-name="MM Синематограф HD" tvg-logo="http://peaktv.su/img/logos/minimax/1062.png" catchup="flussonic" catchup-days="3", MM Синематограф HD
 http://lobby.peaktv.name/balancer/bigteisti13/minimax_ues_krejven/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
-#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb537" tvg-name="MM Ситком HD" tvg-logo="http://peaktv.su/img/logos/minimax/1063.png" catchup="flussonic" catchup-days="3", MM Ситком HD
-http://lobby.peaktv.name/balancer/bigteisti13/minimax_sitcom/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
-#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb555" tvg-name="MM Ситком 2.0 HD" tvg-logo="http://peaktv.su/img/logos/minimax/1064.png" catchup="flussonic" catchup-days="3", MM Ситком 2.0 HD
-http://lobby.peaktv.name/balancer/bigteisti13/minimax_olga/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb538" tvg-name="MM Скорость HD" tvg-logo="http://peaktv.su/img/logos/minimax/1065.png" catchup="flussonic" catchup-days="3", MM Скорость HD
 http://lobby.peaktv.name/balancer/bigteisti13/minimax_skorost/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb539" tvg-name="MM Спорт HD" tvg-logo="http://peaktv.su/img/logos/minimax/1066.png" catchup="flussonic" catchup-days="3", MM Спорт HD
 http://lobby.peaktv.name/balancer/bigteisti13/minimax_sport/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
-#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb540" tvg-name="MM Стивен Кинг HD" tvg-logo="http://peaktv.su/img/logos/minimax/1067.png" catchup="flussonic" catchup-days="3", MM Стивен Кинг HD
-http://lobby.peaktv.name/balancer/bigteisti13/minimax_stiven_king/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb541" tvg-name="MM Супергерои HD" tvg-logo="http://peaktv.su/img/logos/minimax/1068.png" catchup="flussonic" catchup-days="3", MM Супергерои HD
 http://lobby.peaktv.name/balancer/bigteisti13/minimax_supergeroi/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb542" tvg-name="MM Триллер HD" tvg-logo="http://peaktv.su/img/logos/minimax/1069.png" catchup="flussonic" catchup-days="3", MM Триллер HD
 http://lobby.peaktv.name/balancer/bigteisti13/minimax_thriller/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb543" tvg-name="MM Ужастик HD" tvg-logo="http://peaktv.su/img/logos/minimax/1070.png" catchup="flussonic" catchup-days="3", MM Ужастик HD
 http://lobby.peaktv.name/balancer/bigteisti13/minimax_ujastic/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
-#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb544" tvg-name="MM Ужасы Classic HD" tvg-logo="http://peaktv.su/img/logos/minimax/1071.png" catchup="flussonic" catchup-days="3", MM Ужасы Classic HD
-http://lobby.peaktv.name/balancer/bigteisti13/minimax_ujasi_classic/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb545" tvg-name="MM Ужасы HD" tvg-logo="http://peaktv.su/img/logos/minimax/1072.png" catchup="flussonic" catchup-days="3", MM Ужасы HD
 http://lobby.peaktv.name/balancer/bigteisti13/minimax_ujasi/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb544" tvg-name="MM Ужасы Classic HD" tvg-logo="http://peaktv.su/img/logos/minimax/1071.png" catchup="flussonic" catchup-days="3", MM Ужасы Classic HD
+http://lobby.peaktv.name/balancer/bigteisti13/minimax_ujasi_classic/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb546" tvg-name="MM Фантастика HD" tvg-logo="http://peaktv.su/img/logos/minimax/1073.png" catchup="flussonic" catchup-days="3", MM Фантастика HD
 http://lobby.peaktv.name/balancer/bigteisti13/minimax_fantastika/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb547" tvg-name="MM Фобия HD" tvg-logo="http://peaktv.su/img/logos/minimax/1074.png" catchup="flussonic" catchup-days="3", MM Фобия HD
 http://lobby.peaktv.name/balancer/bigteisti13/minimax_fobja/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb484" tvg-name="MM Celebrity HD" tvg-logo="http://peaktv.su/img/logos/minimax/1002.png" catchup="flussonic" catchup-days="3", MM Celebrity HD
 http://lobby.peaktv.name/balancer/bigteisti13/minimax_celebrity/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb513" tvg-name="MM Драма HD" tvg-logo="http://peaktv.su/img/logos/minimax/1037.png" catchup="flussonic" catchup-days="3", MM Драма HD
+http://lobby.peaktv.name/balancer/bigteisti13/minimax_drama/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb485" tvg-name="MM Classic HD" tvg-logo="http://peaktv.su/img/logos/minimax/1003.png" catchup="flussonic" catchup-days="3", MM Classic HD
+http://lobby.peaktv.name/balancer/bigteisti13/minimax_classic/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb497" tvg-name="MM Translation HD" tvg-logo="http://peaktv.su/img/logos/minimax/1019.png" catchup="flussonic" catchup-days="3", MM Translation HD
 http://lobby.peaktv.name/balancer/bigteisti13/minimax_translation/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb512" tvg-name="MM Гриффины HD" tvg-logo="http://peaktv.su/img/logos/minimax/1036.png" catchup="flussonic" catchup-days="3", MM Гриффины HD
@@ -823,6 +1097,32 @@ http://lobby.peaktv.name/balancer/bigteisti13/minimax_mscrime/ZGVuaXMxMjIzfHxSR1
 http://lobby.peaktv.name/balancer/bigteisti13/minimax_msprisons/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb551" tvg-name="MS YOUNG BLOOD HD" tvg-logo="http://peaktv.su/img/logos/minimax/1080.png" catchup="flussonic" catchup-days="3", MS YOUNG BLOOD HD
 http://lobby.peaktv.name/balancer/bigteisti13/minimax_msyoungblood/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb567" tvg-name="GL Brief" tvg-logo="http://peaktv.su/img/logos/GL/GL_Brief.png" catchup="flussonic" catchup-days="3", GL Brief
+http://lobby.peaktv.name/balancer/bigteisti19/08946955/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb4720" tvg-name="GL Chef" tvg-logo="http://peaktv.su/img/logos/GL/gl_chef.png" catchup="flussonic" catchup-days="3", GL Chef
+http://lobby.peaktv.name/balancer/bigteisti3/08936910/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb570" tvg-name="GL Evidence" tvg-logo="http://peaktv.su/img/logos/GL/gl_evidence.png" catchup="flussonic" catchup-days="3", GL Evidence
+http://lobby.peaktv.name/balancer/bigteisti19/08946956/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb565" tvg-name="GL Exist" tvg-logo="http://peaktv.su/img/logos/GL/gl_exist.png" catchup="flussonic" catchup-days="3", GL Exist
+http://lobby.peaktv.name/balancer/bigteisti19/08946957/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb4718" tvg-name="GL Girlfight" tvg-logo="http://peaktv.su/img/logos/GL/gl_girlfight.png" catchup="flussonic" catchup-days="3", GL Girlfight
+http://lobby.peaktv.name/balancer/bigteisti3/08936911/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb4721" tvg-name="GL Hostage" tvg-logo="http://peaktv.su/img/logos/GL/gl_hostage.png" catchup="flussonic" catchup-days="3", GL Hostage
+http://lobby.peaktv.name/balancer/bigteisti3/08936912/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb568" tvg-name="GL Island" tvg-logo="http://peaktv.su/img/logos/GL/gl_island.png" catchup="flussonic" catchup-days="3", GL Island
+http://lobby.peaktv.name/balancer/bigteisti19/08946958/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb4719" tvg-name="GL Motivation" tvg-logo="http://peaktv.su/img/logos/GL/gl_motivation.png" catchup="flussonic" catchup-days="3", GL Motivation
+http://lobby.peaktv.name/balancer/bigteisti3/08936913/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb566" tvg-name="GL Psycho" tvg-logo="http://peaktv.su/img/logos/GL/gl-psycho.png" catchup="flussonic" catchup-days="3", GL Psycho
+http://lobby.peaktv.name/balancer/bigteisti19/08946960/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb564" tvg-name="GL Series" tvg-logo="http://peaktv.su/img/logos/GL/gl_series.png" catchup="flussonic" catchup-days="3", GL Series
+http://lobby.peaktv.name/balancer/bigteisti19/08946961/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb569" tvg-name="GL Survival" tvg-logo="http://peaktv.su/img/logos/GL/gl_survival.png" catchup="flussonic" catchup-days="3", GL Survival
+http://lobby.peaktv.name/balancer/bigteisti19/08946962/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb563" tvg-name="GL Детектив" tvg-logo="http://peaktv.su/img/logos/GL/gl-detektiv.png" catchup="flussonic" catchup-days="3", GL Детектив
+http://lobby.peaktv.name/balancer/bigteisti19/08946963/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb572" tvg-name="GL Невский" tvg-logo="http://peaktv.su/img/logos/GL/gl-nevskii.png" catchup="flussonic" catchup-days="3", GL Невский
+http://lobby.peaktv.name/balancer/bigteisti19/08946964/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb4252" tvg-name="Karlson TV Интерны" tvg-logo="http://peaktv.su/img/logos/kinoInt/karloson_tv.jpg" catchup="flussonic" catchup-days="3", Karlson TV Интерны
 http://lobby.peaktv.name/balancer/bigteisti10/08936911/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb4285" tvg-name="Karlson TV Сваты" tvg-logo="http://peaktv.su/img/logos/kinoInt/karloson_tv.jpg" catchup="flussonic" catchup-days="3", Karlson TV Сваты
@@ -865,6 +1165,94 @@ http://lobby.peaktv.name/balancer/bigteisti3/08946904/ZGVuaXMxMjIzfHxSR1Z1YVhOcl
 http://lobby.peaktv.name/balancer/bigteisti3/08946908/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb668" tvg-name="FRESH Rating" tvg-logo="http://peaktv.su/img/logos/fresh/fresh-rating.png" catchup="flussonic" catchup-days="3", FRESH Rating
 http://lobby.peaktv.name/balancer/bigteisti3/08946911/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-name="Глухарь" tvg-logo="http://peaktv.su/img/logos/kino/ZALGLUHAR200.png", Глухарь
+http://lobby.peaktv.name/balancer/bigteisti19/08946975/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-name="Пятницкий" tvg-logo="http://peaktv.su/img/logos/kino/ZALPYATNICKIY200.png", Пятницкий
+http://lobby.peaktv.name/balancer/bigteisti19/08946980/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb4481" tvg-name="TVPlay Marvel HD" tvg-logo="http://peaktv.su/img/logos/tvplay/marvel.png" catchup="flussonic" catchup-days="3", TVPlay Marvel HD
+http://lobby.peaktv.name/balancer/bigteisti10/08946905/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb4463" tvg-name="TVPlay DC Comics HD" tvg-logo="http://peaktv.su/img/logos/tvplay/dc.png" catchup="flussonic" catchup-days="3", TVPlay DC Comics HD
+http://lobby.peaktv.name/balancer/bigteisti10/08946916/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb4468" tvg-name="TVPlay Фантастика HD" tvg-logo="http://peaktv.su/img/logos/tvplay/fantastika.png" catchup="flussonic" catchup-days="3", TVPlay Фантастика HD
+http://lobby.peaktv.name/balancer/bigteisti10/08946927/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb4467" tvg-name="TVPlay РУССКАЯ ФАНТАСТИКА HD" tvg-logo="http://peaktv.su/img/logos/tvplay/fantastika_rus.png" catchup="flussonic" catchup-days="3", TVPlay РУССКАЯ ФАНТАСТИКА HD
+http://lobby.peaktv.name/balancer/bigteisti10/08947001/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-name="TVPlay КОСМИЧЕСКИЙ HD" tvg-logo="http://peaktv.su/img/logos/tvplay/cosmo.png" catchup="flussonic" catchup-days="3", TVPlay КОСМИЧЕСКИЙ HD
+http://lobby.peaktv.name/balancer/bigteisti10/08947000/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-name="TVPlay Фильмы Л.Гайдая HD" tvg-logo="http://peaktv.su/img/logos/tvplay/gaiday.png" catchup="flussonic" catchup-days="3", TVPlay Фильмы Л.Гайдая HD
+http://lobby.peaktv.name/balancer/bigteisti10/08946944/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-name="TVPlay Фильмы Г.Данелии HD" tvg-logo="http://peaktv.su/img/logos/tvplay/danelia.png" catchup="flussonic" catchup-days="3", TVPlay Фильмы Г.Данелии HD
+http://lobby.peaktv.name/balancer/bigteisti10/08946945/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb4502" tvg-name="TVPlay Высоцкий HD" tvg-logo="http://peaktv.su/img/logos/tvplay/vysotskiy.png" catchup="flussonic" catchup-days="3", TVPlay Высоцкий HD
+http://lobby.peaktv.name/balancer/bigteisti10/08946904/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb4487" tvg-name="TVPlay НОВИНКИ RUS HD" tvg-logo="http://peaktv.su/img/logos/tvplay/novinka_rus.png" catchup="flussonic" catchup-days="3", TVPlay НОВИНКИ RUS HD
+http://lobby.peaktv.name/balancer/bigteisti10/08946923/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb4488" tvg-name="TVPlay НОВИНКИ МИР HD" tvg-logo="http://peaktv.su/img/logos/tvplay/novinka_world.png" catchup="flussonic" catchup-days="3", TVPlay НОВИНКИ МИР HD
+http://lobby.peaktv.name/balancer/bigteisti10/08946924/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb4494" tvg-name="TVPlay Советское Кино HD" tvg-logo="http://peaktv.su/img/logos/tvplay/sov_kino.png" catchup="flussonic" catchup-days="3", TVPlay Советское Кино HD
+http://lobby.peaktv.name/balancer/bigteisti10/08946928/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-name="TVPlay Великая Отечественная HD" tvg-logo="http://peaktv.su/img/logos/tvplay/vov45.png" catchup="flussonic" catchup-days="3", TVPlay Великая Отечественная HD
+http://lobby.peaktv.name/balancer/bigteisti10/08946998/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb4499" tvg-name="TVPlay УЖАСЫ HD" tvg-logo="http://peaktv.su/img/logos/tvplay/horror.png" catchup="flussonic" catchup-days="3", TVPlay УЖАСЫ HD
+http://lobby.peaktv.name/balancer/bigteisti10/08946926/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb4489" tvg-name="TVPlay Пародии HD" tvg-logo="http://peaktv.su/img/logos/tvplay/parodies.png" catchup="flussonic" catchup-days="3", TVPlay Пародии HD
+http://lobby.peaktv.name/balancer/bigteisti10/08946936/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb4459" tvg-name="TVPlay Биографии HD" tvg-logo="http://peaktv.su/img/logos/tvplay/biography.png" catchup="flussonic" catchup-days="3", TVPlay Биографии HD
+http://lobby.peaktv.name/balancer/bigteisti10/08946939/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb4478" tvg-name="TVPlay Лихие 90е КИНО HD" tvg-logo="http://peaktv.su/img/logos/tvplay/lihie90_kino.png" catchup="flussonic" catchup-days="3", TVPlay Лихие 90е КИНО HD
+http://lobby.peaktv.name/balancer/bigteisti10/08946922/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb4479" tvg-name="TVPlay Лихие 90е СЕРИАЛ HD" tvg-logo="http://peaktv.su/img/logos/tvplay/lihie90_serial.png" catchup="flussonic" catchup-days="3", TVPlay Лихие 90е СЕРИАЛ HD
+http://lobby.peaktv.name/balancer/bigteisti10/08946921/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb4458" tvg-name="TVPlay VHS HD" tvg-logo="http://peaktv.su/img/logos/tvplay/vhs_autor.png" catchup="flussonic" catchup-days="3", TVPlay VHS HD
+http://lobby.peaktv.name/balancer/bigteisti10/08946908/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb4504" tvg-name="TVPlay Зачарованные HD" tvg-logo="http://peaktv.su/img/logos/tvplay/zacharovannye.png" catchup="flussonic" catchup-days="3", TVPlay Зачарованные HD
+http://lobby.peaktv.name/balancer/bigteisti10/08946933/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb4461" tvg-name="TVPlay Баффи HD" tvg-logo="http://peaktv.su/img/logos/tvplay/baffy.png" catchup="flussonic" catchup-days="3", TVPlay Баффи HD
+http://lobby.peaktv.name/balancer/bigteisti10/08946931/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb4464" tvg-name="TVPlay Друзья HD" tvg-logo="http://peaktv.su/img/logos/tvplay/friends.png" catchup="flussonic" catchup-days="3", TVPlay Друзья HD
+http://lobby.peaktv.name/balancer/bigteisti10/08946932/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb4491" tvg-name="TVPLAY Латинские сериалы" tvg-logo="http://peaktv.su/img/logos/tvplay/latino.png" catchup="flussonic" catchup-days="3", TVPLAY Латинские сериалы
+http://lobby.peaktv.name/balancer/bigteisti10/08946902/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb4472" tvg-name="TVPlay Гарри Поттер HD" tvg-logo="http://peaktv.su/img/logos/tvplay/garry_potter.png" catchup="flussonic" catchup-days="3", TVPlay Гарри Поттер HD
+http://lobby.peaktv.name/balancer/bigteisti10/08946915/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb4483" tvg-name="TVPlay Мифы и Легенды" tvg-logo="http://peaktv.su/img/logos/tvplay/myths_n_legends.png" catchup="flussonic" catchup-days="3", TVPlay Мифы и Легенды
+http://lobby.peaktv.name/balancer/bigteisti10/08946920/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb4455" tvg-name="TVPlay АЛЬФ" tvg-logo="http://peaktv.su/img/logos/tvplay/alf.png" catchup="flussonic" catchup-days="3", TVPlay АЛЬФ
+http://lobby.peaktv.name/balancer/bigteisti10/08946910/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb4476" tvg-name="TVPlay Истории Средиземья HD" tvg-logo="http://peaktv.su/img/logos/tvplay/sredizemie.png" catchup="flussonic" catchup-days="3", TVPlay Истории Средиземья HD
+http://lobby.peaktv.name/balancer/bigteisti10/08946917/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb4493" tvg-name="TVPlay Следствие вели с Л.Каневским" tvg-logo="http://peaktv.su/img/logos/tvplay/sled_veli.png" catchup="flussonic" catchup-days="3", TVPlay Следствие вели с Л.Каневским
+http://lobby.peaktv.name/balancer/bigteisti10/08946938/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb4492" tvg-name="TVPlay Следствие ведут HD" tvg-logo="http://peaktv.su/img/logos/tvplay/sled_vedut.png" catchup="flussonic" catchup-days="3", TVPlay Следствие ведут HD
+http://lobby.peaktv.name/balancer/bigteisti10/08946919/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb4602" tvg-name="TVPlay ПСИХО HD" tvg-logo="http://peaktv.su/img/logos/tvplay/psykho.jpg" catchup="flussonic" catchup-days="3", TVPlay ПСИХО HD
+http://lobby.peaktv.name/balancer/bigteisti10/08946906/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb" tvg-name="TVPlay Зомби HD" tvg-logo="http://peaktv.su/img/logos/tvplay/zombie.png" catchup="flussonic" catchup-days="3", TVPlay Зомби HD
+http://lobby.peaktv.name/balancer/bigteisti3/lm_Quantum/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-name="TVPlay Моя прекрасная Няня" tvg-logo="http://peaktv.su/img/logos/tvplay/moya_nyanya.png" catchup="flussonic" catchup-days="3", TVPlay Моя прекрасная Няня
+http://lobby.peaktv.name/balancer/bigteisti10/08946942/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-name="TVPlay Папины дочки" tvg-logo="http://peaktv.su/img/logos/tvplay/papiny_dochki.png" catchup="flussonic" catchup-days="3", TVPlay Папины дочки
+http://lobby.peaktv.name/balancer/bigteisti10/08946943/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb4474" tvg-name="TVPlay Игра Престолов HD" tvg-logo="http://peaktv.su/img/logos/tvplay/igraprestolov.png" catchup="flussonic" catchup-days="3", TVPlay Игра Престолов HD
+http://lobby.peaktv.name/balancer/bigteisti10/08946907/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb" tvg-name="TVPlay Индийское Кино" tvg-logo="http://peaktv.su/img/logos/tvplay/zombie.png" catchup="flussonic" catchup-days="3", TVPlay Индийское Кино
+http://lobby.peaktv.name/balancer/bigteisti3/mn_EchoX/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb1734" tvg-name="Кино 1" tvg-logo="http://peaktv.su/img/logos/kinoInt/Kino_1.png" catchup="flussonic" catchup-days="3", Кино 1
+http://lobby.peaktv.name/balancer/bigteisti6/08936907/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb1737" tvg-name="Кино 1 International" tvg-logo="http://peaktv.su/img/logos/kinoInt/Kino_1_INT.png" catchup="flussonic" catchup-days="3", Кино 1 International
+http://lobby.peaktv.name/balancer/bigteisti6/08936908/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb1738" tvg-name="Кино 2" tvg-logo="http://peaktv.su/img/logos/kinoInt/Kino_2.png" catchup="flussonic" catchup-days="3", Кино 2
+http://lobby.peaktv.name/balancer/bigteisti6/08936909/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb1738" tvg-name="Кино 2 ORG" tvg-logo="http://peaktv.su/img/logos/kinoInt/Kino_2.png" catchup="flussonic" catchup-days="3", Кино 2 ORG
+http://lobby.peaktv.name/balancer/bigteisti6/08936910/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb2650" tvg-name="Сериал" tvg-logo="http://peaktv.su/img/logos/kinoInt/Serial.png" catchup="flussonic" catchup-days="3", Сериал
+http://lobby.peaktv.name/balancer/bigteisti6/08936911/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb3376" tvg-name="Военное кино" tvg-logo="http://peaktv.su/img/logos/kinoInt/Voennoe_Kino.png" catchup="flussonic" catchup-days="3", Военное кино
+http://lobby.peaktv.name/balancer/bigteisti6/08936912/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb3134" tvg-name="Твоё ТВ HD" tvg-logo="http://peaktv.su/img/logos/kinoInt/tvoetvhd.png" catchup="flussonic" catchup-days="3", Твоё ТВ HD
+http://lobby.peaktv.name/balancer/bigteisti6/tvoe_tv/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb4578" tvg-name="Velilla TV Cinema 4K" tvg-logo="http://peaktv.su/img/logos/Velilla/velilla4K.png" catchup="flussonic" catchup-days="3", Velilla TV Cinema 4K
+http://lobby.peaktv.name/balancer/bigteisti20/08946948/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb4584" tvg-name="Velilla TV Action War Films HD" tvg-logo="http://peaktv.su/img/logos/Velilla/actionwarfilms.png" catchup="flussonic" catchup-days="3", Velilla TV Action War Films HD
 http://lobby.peaktv.name/balancer/bigteisti20/08946949/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb4826" tvg-name="Velilla TV Бандитский Петербург" tvg-logo="http://peaktv.su/img/logos/Velilla/banditpiter.png" catchup="flussonic" catchup-days="3", Velilla TV Бандитский Петербург
@@ -883,10 +1271,10 @@ http://lobby.peaktv.name/balancer/bigteisti20/08946976/ZGVuaXMxMjIzfHxSR1Z1YVhOc
 http://lobby.peaktv.name/balancer/bigteisti20/09946952/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb4593" tvg-name="Velilla TV Мосгаз HD" tvg-logo="http://peaktv.su/img/logos/Velilla/velillamosgaz.png" catchup="flussonic" catchup-days="3", Velilla TV Мосгаз HD
 http://lobby.peaktv.name/balancer/bigteisti20/08946952/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
-#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb4577" tvg-name="Velilla TV Русский Сериал HD" tvg-logo="http://peaktv.su/img/logos/Velilla/velillaruserial.png" catchup="flussonic" catchup-days="3", Velilla TV Русский Сериал HD
-http://lobby.peaktv.name/balancer/bigteisti20/08946950/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb4592" tvg-name="Velilla TV Русские Мелодрамы HD" tvg-logo="http://peaktv.su/img/logos/Velilla/velillarusmelodrama.png" catchup="flussonic" catchup-days="3", Velilla TV Русские Мелодрамы HD
 http://lobby.peaktv.name/balancer/bigteisti20/09946901/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb4577" tvg-name="Velilla TV Русский Сериал HD" tvg-logo="http://peaktv.su/img/logos/Velilla/velillaruserial.png" catchup="flussonic" catchup-days="3", Velilla TV Русский Сериал HD
+http://lobby.peaktv.name/balancer/bigteisti20/08946950/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-name="Velilla TV Ситком HD" tvg-logo="http://peaktv.su/img/logos/Velilla/velillatvsitcom.png" catchup="flussonic" catchup-days="3", Velilla TV Ситком HD
 http://lobby.peaktv.name/balancer/bigteisti20/09946956/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb4742" tvg-name="Velilla TV Счастливы вместе" tvg-logo="http://peaktv.su/img/logos/Velilla/velillahappytogether.png" catchup="flussonic" catchup-days="3", Velilla TV Счастливы вместе
@@ -895,26 +1283,116 @@ http://lobby.peaktv.name/balancer/bigteisti20/09946951/ZGVuaXMxMjIzfHxSR1Z1YVhOc
 http://lobby.peaktv.name/balancer/bigteisti20/29946903/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb4860" tvg-name="Velilla TV Новогодний" tvg-logo="http://peaktv.su/img/logos/Velilla/velillanewyear.png" catchup="flussonic" catchup-days="3", Velilla TV Новогодний
 http://lobby.peaktv.name/balancer/bigteisti20/29946919/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
-#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb1734" tvg-name="Кино 1" tvg-logo="http://peaktv.su/img/logos/kinoInt/Kino_1.png" catchup="flussonic" catchup-days="3", Кино 1
-http://lobby.peaktv.name/balancer/bigteisti6/08936907/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
-#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb1737" tvg-name="Кино 1 International" tvg-logo="http://peaktv.su/img/logos/kinoInt/Kino_1_INT.png" catchup="flussonic" catchup-days="3", Кино 1 International
-http://lobby.peaktv.name/balancer/bigteisti6/08936908/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
-#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb1738" tvg-name="Кино 2" tvg-logo="http://peaktv.su/img/logos/kinoInt/Kino_2.png" catchup="flussonic" catchup-days="3", Кино 2
-http://lobby.peaktv.name/balancer/bigteisti6/08936909/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
-#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb1738" tvg-name="Кино 2 ORG" tvg-logo="http://peaktv.su/img/logos/kinoInt/Kino_2.png" catchup="flussonic" catchup-days="3", Кино 2 ORG
-http://lobby.peaktv.name/balancer/bigteisti6/08936910/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
-#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb2650" tvg-name="Сериал" tvg-logo="http://peaktv.su/img/logos/kinoInt/Serial.png" catchup="flussonic" catchup-days="3", Сериал
-http://lobby.peaktv.name/balancer/bigteisti6/08936911/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
-#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb3376" tvg-name="Военное кино" tvg-logo="http://peaktv.su/img/logos/kinoInt/Voennoe_Kino.png" catchup="flussonic" catchup-days="3", Военное кино
-http://lobby.peaktv.name/balancer/bigteisti6/08936912/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
-#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb3129" tvg-name="Твоё ТВ HD" tvg-logo="http://peaktv.su/img/logos/kinoInt/tvoetvhd.png" catchup="flussonic" catchup-days="3", Твоё ТВ HD
-http://lobby.peaktv.name/balancer/bigteisti6/tvoe_tv/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb3546" tvg-name="BCU Premiere Ultra 4K" tvg-logo="http://peaktv.su/img/logos/bcu/bcu-premiere.png" catchup="flussonic" catchup-days="3", BCU Premiere Ultra 4K
+http://lobby.peaktv.name/balancer/bigteisti20/29946917/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb3555" tvg-name="BCU Ultra 4K" tvg-logo="http://peaktv.su/img/logos/bcu/bcu-ultra4k.png" catchup="flussonic" catchup-days="3", BCU Ultra 4K
+http://lobby.peaktv.name/balancer/bigteisti20/29946916/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb3557" tvg-name="BCU Сваты 4K" tvg-logo="http://peaktv.su/img/logos/bcu/BCUSVATY4K200.png" catchup="flussonic" catchup-days="3", BCU Сваты 4K
+http://lobby.peaktv.name/balancer/bigteisti20/29946915/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb3558" tvg-name="BCU Сваты HD" tvg-logo="http://peaktv.su/img/logos/bcu/bcu-svaty.png" catchup="flussonic" catchup-days="3", BCU Сваты HD
+http://lobby.peaktv.name/balancer/bigteisti19/09946920/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb3559" tvg-name="BCU СССР HD" tvg-logo="http://peaktv.su/img/logos/bcu/bcu-sssr-hd.png" catchup="flussonic" catchup-days="3", BCU СССР HD
+http://lobby.peaktv.name/balancer/bigteisti19/09946906/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb3561" tvg-name="BCUMedia HD" tvg-logo="http://peaktv.su/img/logos/bcu/bcu-kinozakaz.png" catchup="flussonic" catchup-days="3", BCUMedia HD
+http://lobby.peaktv.name/balancer/bigteisti19/09946917/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb3561" tvg-name="BCUMedia OLD" tvg-logo="http://peaktv.su/img/logos/bcu/bcu-kinozakaz.png" catchup="flussonic" catchup-days="3", BCUMedia OLD
+http://lobby.peaktv.name/balancer/bigteisti19/08946982/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb4831" tvg-name="BCUMedia 2 HDR" tvg-logo="http://peaktv.su/img/logos/bcu/bcumedia2.png" catchup="flussonic" catchup-days="3", BCUMedia 2 HDR
+http://lobby.peaktv.name/balancer/bigteisti8/29946925/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb4834" tvg-name="BCUMedia 3 HDR" tvg-logo="http://peaktv.su/img/logos/bcu/bcu-new-media3.png" catchup="flussonic" catchup-days="3", BCUMedia 3 HDR
+http://lobby.peaktv.name/balancer/bigteisti8/29946926/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb3545" tvg-name="BCU Premiere HDR" tvg-logo="http://peaktv.su/img/logos/bcu/bcu-premiere.png" catchup="flussonic" catchup-days="3", BCU Premiere HDR
+http://lobby.peaktv.name/balancer/bigteisti19/08946997/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb3542" tvg-name="BCU Premiere 1 HDR" tvg-logo="http://peaktv.su/img/logos/bcu/bcu-kinozal-prem-1.png" catchup="flussonic" catchup-days="3", BCU Premiere 1 HDR
+http://lobby.peaktv.name/balancer/bigteisti19/08946996/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb3543" tvg-name="BCU Premiere 2 HDR" tvg-logo="http://peaktv.su/img/logos/bcu/bcu-kinozal-prem-2.png" catchup="flussonic" catchup-days="3", BCU Premiere 2 HDR
+http://lobby.peaktv.name/balancer/bigteisti19/08946994/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb3544" tvg-name="BCU Premiere 3 HDR" tvg-logo="http://peaktv.su/img/logos/bcu/bcu-kinozal-prem-3.png" catchup="flussonic" catchup-days="3", BCU Premiere 3 HDR
+http://lobby.peaktv.name/balancer/bigteisti19/08946995/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb3545" tvg-name="BCU Premiere HD" tvg-logo="http://peaktv.su/img/logos/bcu/bcu-premiere.png" catchup="flussonic" catchup-days="3", BCU Premiere HD
+http://lobby.peaktv.name/balancer/bigteisti19/09946914/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb3542" tvg-name="BCU Кинозал Premiere 1 HD" tvg-logo="http://peaktv.su/img/logos/bcu/bcu-kinozal-prem-1.png" catchup="flussonic" catchup-days="3", BCU Кинозал Premiere 1 HD
+http://lobby.peaktv.name/balancer/bigteisti19/09946902/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb3543" tvg-name="BCU Кинозал Premiere 2 HD" tvg-logo="http://peaktv.su/img/logos/bcu/bcu-kinozal-prem-2.png" catchup="flussonic" catchup-days="3", BCU Кинозал Premiere 2 HD
+http://lobby.peaktv.name/balancer/bigteisti19/09946903/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb3544" tvg-name="BCU Кинозал Premiere 3 HD" tvg-logo="http://peaktv.su/img/logos/bcu/bcu-kinozal-prem-3.png" catchup="flussonic" catchup-days="3", BCU Кинозал Premiere 3 HD
+http://lobby.peaktv.name/balancer/bigteisti19/09946904/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb3520" tvg-name="BCU Action HD" tvg-logo="http://peaktv.su/img/logos/bcu/bcu-action.png" catchup="flussonic" catchup-days="3", BCU Action HD
+http://lobby.peaktv.name/balancer/bigteisti19/09946907/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb4840" tvg-name="BCU Biography HDR" tvg-logo="http://peaktv.su/img/logos/bcu/bcu-biography-hdr.png" catchup="flussonic" catchup-days="3", BCU Biography HDR
+http://lobby.peaktv.name/balancer/bigteisti8/29946932/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb3521" tvg-name="BCU Catastrophe HD" tvg-logo="http://peaktv.su/img/logos/bcu/bcu-catastrophe.png" catchup="flussonic" catchup-days="3", BCU Catastrophe HD
+http://lobby.peaktv.name/balancer/bigteisti19/09946908/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb3524" tvg-name="BCU Cinema+ HD" tvg-logo="http://peaktv.su/img/logos/bcu/bcu-cinemaplus.png" catchup="flussonic" catchup-days="3", BCU Cinema+ HD
+http://lobby.peaktv.name/balancer/bigteisti19/09946923/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb3523" tvg-name="BCU Cinema HD" tvg-logo="http://peaktv.su/img/logos/bcu/bcu-cinema.png" catchup="flussonic" catchup-days="3", BCU Cinema HD
+http://lobby.peaktv.name/balancer/bigteisti19/09946922/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb3525" tvg-name="BCU Comedy HDR" tvg-logo="http://peaktv.su/img/logos/bcu/bcu-comedy.png" catchup="flussonic" catchup-days="3", BCU Comedy HDR
+http://lobby.peaktv.name/balancer/bigteisti19/09946909/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb3525" tvg-name="BCU Comedy HD" tvg-logo="http://peaktv.su/img/logos/bcu/bcu-comedy.png" catchup="flussonic" catchup-days="3", BCU Comedy HD
+http://lobby.peaktv.name/balancer/bigteisti19/08946985/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb3526" tvg-name="BCU Cosmo HDR" tvg-logo="http://peaktv.su/img/logos/bcu/bcu-cosmo.png" catchup="flussonic" catchup-days="3", BCU Cosmo HDR
+http://lobby.peaktv.name/balancer/bigteisti19/08946999/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb3526" tvg-name="BCU Cosmo HD" tvg-logo="http://peaktv.su/img/logos/bcu/bcu-cosmo-hdr.png" catchup="flussonic" catchup-days="3", BCU Cosmo HD
+http://lobby.peaktv.name/balancer/bigteisti19/08946987/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb3526" tvg-name="BCU Cosmo OLD" tvg-logo="http://peaktv.su/img/logos/bcu/bcu-cosmo.png" catchup="flussonic" catchup-days="3", BCU Cosmo OLD
+http://lobby.peaktv.name/balancer/bigteisti19/08946988/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb3528" tvg-name="BCU Criminal HD" tvg-logo="http://peaktv.su/img/logos/bcu/bcu-criminal.png" catchup="flussonic" catchup-days="3", BCU Criminal HD
+http://lobby.peaktv.name/balancer/bigteisti19/09946921/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb3529" tvg-name="BCU Fantastic HDR" tvg-logo="http://peaktv.su/img/logos/bcu/bcu-fantastic.png" catchup="flussonic" catchup-days="3", BCU Fantastic HDR
+http://lobby.peaktv.name/balancer/bigteisti19/08946998/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb3529" tvg-name="BCU Fantastic HD" tvg-logo="http://peaktv.su/img/logos/bcu/bcu-fantastic.png" catchup="flussonic" catchup-days="3", BCU Fantastic HD
+http://lobby.peaktv.name/balancer/bigteisti19/09946910/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb3530" tvg-name="BCU FilMystic HDR" tvg-logo="http://peaktv.su/img/logos/bcu/bcu-filmystic.png" catchup="flussonic" catchup-days="3", BCU FilMystic HDR
+http://lobby.peaktv.name/balancer/bigteisti19/09946901/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb3530" tvg-name="BCU FilMystic HD" tvg-logo="http://peaktv.su/img/logos/bcu/bcu-filmystic.png" catchup="flussonic" catchup-days="3", BCU FilMystic HD
+http://lobby.peaktv.name/balancer/bigteisti19/09946911/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb3531" tvg-name="BCU History HD" tvg-logo="http://peaktv.su/img/logos/bcu/bcu-history.png" catchup="flussonic" catchup-days="3", BCU History HD
+http://lobby.peaktv.name/balancer/bigteisti19/09946912/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb3540" tvg-name="BCU Marvel HDR" tvg-logo="http://peaktv.su/img/logos/bcu/bcu-marvel.png" catchup="flussonic" catchup-days="3", BCU Marvel HDR
+http://lobby.peaktv.name/balancer/bigteisti19/09946913/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb3540" tvg-name="BCU Marvel HD" tvg-logo="http://peaktv.su/img/logos/bcu/bcu-marvel.png" catchup="flussonic" catchup-days="3", BCU Marvel HD
+http://lobby.peaktv.name/balancer/bigteisti19/09946929/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb3535" tvg-name="BCU Kinorating HD" tvg-logo="http://peaktv.su/img/logos/bcu/bcu-kinorating.png" catchup="flussonic" catchup-days="3", BCU Kinorating HD
+http://lobby.peaktv.name/balancer/bigteisti19/09946926/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb3547" tvg-name="BCU Reality HD" tvg-logo="http://peaktv.su/img/logos/bcu/bcu-reality.png" catchup="flussonic" catchup-days="3", BCU Reality HD
+http://lobby.peaktv.name/balancer/bigteisti19/09946930/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb3547" tvg-name="BCU Reality OLD" tvg-logo="http://peaktv.su/img/logos/bcu/bcu-reality.png" catchup="flussonic" catchup-days="3", BCU Reality OLD
+http://lobby.peaktv.name/balancer/bigteisti19/08946984/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb926" tvg-name="BCU Romantic HD" tvg-logo="http://peaktv.su/img/logos/bcu/bcu-romantic.png" catchup="flussonic" catchup-days="3", BCU Romantic HD
+http://lobby.peaktv.name/balancer/bigteisti19/09946915/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb926" tvg-name="BCU Romantic OLD" tvg-logo="http://peaktv.su/img/logos/bcu/bcu-romantic.png" catchup="flussonic" catchup-days="3", BCU Romantic OLD
+http://lobby.peaktv.name/balancer/bigteisti19/08946986/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb3551" tvg-name="BCU Russian HD" tvg-logo="http://peaktv.su/img/logos/bcu/bcu-russian.png" catchup="flussonic" catchup-days="3", BCU Russian HD
+http://lobby.peaktv.name/balancer/bigteisti19/09946927/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb3549" tvg-name="BCU RUSERIAL HD" tvg-logo="http://peaktv.su/img/logos/bcu/bcu-ruserial.png" catchup="flussonic" catchup-days="3", BCU RUSERIAL HD
+http://lobby.peaktv.name/balancer/bigteisti19/09946919/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb3550" tvg-name="BCU Russia 90s HD" tvg-logo="http://peaktv.su/img/logos/bcu/bcu-russia90s.png" catchup="flussonic" catchup-days="3", BCU Russia 90s HD
+http://lobby.peaktv.name/balancer/bigteisti19/08946993/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb3552" tvg-name="BCU Stars HD" tvg-logo="http://peaktv.su/img/logos/bcu/bcu-stars.png" catchup="flussonic" catchup-days="3", BCU Stars HD
+http://lobby.peaktv.name/balancer/bigteisti19/09946916/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb3553" tvg-name="BCU Survival HD" tvg-logo="http://peaktv.su/img/logos/bcu/bcu-survival.png" catchup="flussonic" catchup-days="3", BCU Survival HD
+http://lobby.peaktv.name/balancer/bigteisti19/08946981/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb3553" tvg-name="BCU Survival OLD" tvg-logo="http://peaktv.su/img/logos/bcu/bcu-survival.png" catchup="flussonic" catchup-days="3", BCU Survival OLD
+http://lobby.peaktv.name/balancer/bigteisti19/08946983/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb3554" tvg-name="BCU TruMotion HD" tvg-logo="http://peaktv.su/img/logos/bcu/bcu-trumotion.png" catchup="flussonic" catchup-days="3", BCU TruMotion HD
+http://lobby.peaktv.name/balancer/bigteisti19/08946990/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-id="elb3556" tvg-name="BCU VHS HD" tvg-logo="http://peaktv.su/img/logos/bcu/bcu-vhs-hd.png" catchup="flussonic" catchup-days="3", BCU VHS HD
+http://lobby.peaktv.name/balancer/bigteisti19/09946928/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-name="First TV Action HD", First TV Action HD
 http://lobby.peaktv.name/balancer/bigteisti20/09946907/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-name="First TV 60 fps", First TV 60 fps
+http://lobby.peaktv.name/balancer/bigteisti20/09946910/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-name="First TV Комедии СССР HD", First TV Комедии СССР HD
 http://lobby.peaktv.name/balancer/bigteisti20/09946908/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Кинозалы | Movie theaters" tvg-name="First TV Criminal HD", First TV Criminal HD
 http://lobby.peaktv.name/balancer/bigteisti20/09946911/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Музыкальные | Music" tvg-id="elb3586" tvg-name="BOX Music 4K" tvg-logo="http://peaktv.su/img/logos/box/box-music-4k.png" catchup="flussonic" catchup-days="3", BOX Music 4K
+http://lobby.peaktv.name/balancer/bigteisti13/nz_React/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Музыкальные | Music" tvg-id="elb4859" tvg-name="BOX Music 2 4K HDR" tvg-logo="http://peaktv.su/img/logos/box/box-music-4k-2.png" catchup="flussonic" catchup-days="3", BOX Music 2 4K HDR
+http://lobby.peaktv.name/balancer/bigteisti20/29946918/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Музыкальные | Music" tvg-name="Planeta 4K", Planeta 4K
+http://lobby.peaktv.name/balancer/bigteisti2/M1_SAMARA/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Музыкальные | Music" tvg-id="elb57" tvg-name="Europa Plus HD" tvg-logo="http://peaktv.su/img/logos/music/europa-plus-tv.png" catchup="flussonic" catchup-days="3", Europa Plus HD
 http://lobby.peaktv.name/balancer/bigteisti9/EUROPAPLUS/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Музыкальные | Music" tvg-id="elb7" tvg-name="1HD Music Television HD" tvg-logo="http://peaktv.su/img/logos/music/1hd-music.png" catchup="flussonic" catchup-days="3", 1HD Music Television HD
@@ -963,6 +1441,8 @@ http://lobby.peaktv.name/balancer/bigteisti10/BRIDGECLASSIC/ZGVuaXMxMjIzfHxSR1Z1
 http://lobby.peaktv.name/balancer/bigteisti1/BRIDGE_FRESH/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Музыкальные | Music" tvg-name="BRIDGE Этно", BRIDGE Этно
 http://lobby.peaktv.name/balancer/bigteisti19/08946928/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Музыкальные | Music" tvg-id="elb719" tvg-name="4ever Music HD" tvg-logo="http://peaktv.su/img/logos/music/4ever-music.png" catchup="flussonic" catchup-days="3", 4ever Music HD
+http://lobby.peaktv.name/balancer/bigteisti13/4EVERMUSIC/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Музыкальные | Music" tvg-id="elb2317" tvg-name="Первый музыкальный HD RU" tvg-logo="http://peaktv.su/img/logos/music/1muz.png", Первый музыкальный HD RU
 http://lobby.peaktv.name/balancer/bigteisti3/fantastikadfshdsrt/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Музыкальные | Music" tvg-id="elb2163" tvg-name="Музыка Первого" tvg-logo="http://peaktv.su/img/logos/music/muzika_pervogo.png" catchup="flussonic" catchup-days="3", Музыка Первого
@@ -971,8 +1451,6 @@ http://lobby.peaktv.name/balancer/bigteisti2/muzykapervogo/ZGVuaXMxMjIzfHxSR1Z1Y
 http://lobby.peaktv.name/balancer/bigteisti6/zhArA_Kids_TV_HD/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Музыкальные | Music" tvg-id="elb2521" tvg-name="Страна FM" tvg-logo="http://peaktv.su/img/logos/music/radio-strana-fm-tv.png", Страна FM
 http://lobby.peaktv.name/balancer/bigteisti6/strAnA_FM/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
-#EXTINF:-1 group-title="Музыкальные | Music" tvg-name="Dance TV HD" tvg-logo="http://peaktv.su/img/logos/music/dancetv.png", Dance TV HD
-http://lobby.peaktv.name/balancer/bigteisti20/08946967/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Музыкальные | Music" tvg-id="elb75" tvg-name="iConcerts HD" tvg-logo="http://peaktv.su/img/logos/music/iconcerts.png" catchup="flussonic" catchup-days="3", iConcerts HD
 http://lobby.peaktv.name/balancer/bigteisti8/ICONCERTS/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Музыкальные | Music" tvg-id="elb3685" tvg-name="InRating HD" tvg-logo="http://peaktv.su/img/logos/music/inrating.png", InRating HD
@@ -985,6 +1463,8 @@ http://lobby.peaktv.name/balancer/bigteisti2/MCMTOP/ZGVuaXMxMjIzfHxSR1Z1YVhOcllU
 http://lobby.peaktv.name/balancer/bigteisti6/MIXM_TV_HD/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Музыкальные | Music" tvg-id="elb107" tvg-name="RU.TV HD" tvg-logo="http://peaktv.su/img/logos/music/ru-tv.png" catchup="flussonic" catchup-days="3", RU.TV HD
 http://lobby.peaktv.name/balancer/bigteisti2/RUTVHD/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Музыкальные | Music" tvg-name="Techno Warehouse" tvg-logo="http://peaktv.su/img/logos/music/dancetv.png" catchup="flussonic" catchup-days="3", Techno Warehouse
+http://lobby.peaktv.name/balancer/bigteisti20/08946967/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Музыкальные | Music" tvg-id="elb1106" tvg-name="Stingray CMusic HD" tvg-logo="http://peaktv.su/img/logos/music/c-music-tv.png" catchup="flussonic" catchup-days="3", Stingray CMusic HD
 http://lobby.peaktv.name/balancer/bigteisti1/CMUSIC/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Музыкальные | Music" tvg-id="elb263" tvg-name="Музыка Live" tvg-logo="http://peaktv.su/img/logos/music/musiclive200.png" catchup="flussonic" catchup-days="3", Музыка Live
@@ -1027,16 +1507,54 @@ http://lobby.peaktv.name/balancer/bigteisti13/minimax_relax/ZGVuaXMxMjIzfHxSR1Z1
 http://lobby.peaktv.name/balancer/bigteisti13/minimax_rock/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Музыкальные | Music" tvg-id="elb560" tvg-name="MM World Hits HD" tvg-logo="http://peaktv.su/img/logos/minimax/1029.png" catchup="flussonic" catchup-days="3", MM World Hits HD
 http://lobby.peaktv.name/balancer/bigteisti13/minimax_world_hits/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
-#EXTINF:-1 group-title="Музыкальные | Music" tvg-id="elb4311" tvg-name="VeleS Магнитофон" tvg-logo="http://peaktv.su/img/logos/kinoInt/veles/veles_magnitofon.png" catchup="flussonic" catchup-days="3", VeleS Магнитофон
-http://lobby.peaktv.name/balancer/bigteisti1/VELES_MAGNITOFON/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Музыкальные | Music" tvg-id="elb466" tvg-name="Yosso TV Music Hits" tvg-logo="http://peaktv.su/img/logos/yosso_tv/yosso-musichits.png" catchup="flussonic" catchup-days="3", Yosso TV Music Hits
 http://lobby.peaktv.name/balancer/bigteisti1/Y-MUSIC-HITS/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Музыкальные | Music" tvg-id="elb4704" tvg-name="Yosso TV Шансон" tvg-logo="http://peaktv.su/img/logos/yosso/yosso-shanson.png" catchup="flussonic" catchup-days="3", Yosso TV Шансон
 http://lobby.peaktv.name/balancer/bigteisti19/09946971/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
-#EXTINF:-1 group-title="Музыкальные | Music" tvg-id="elb451" tvg-name="C-Live HD" tvg-logo="http://peaktv.su/img/logos/yosso_tv/c-live.png" catchup="flussonic" catchup-days="3", C-Live HD
-http://lobby.peaktv.name/balancer/bigteisti1/Y-C-LIVE/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Музыкальные | Music" tvg-id="elb3585" tvg-name="BOX Metall HD" tvg-logo="http://peaktv.su/img/logos/box/metall.png" catchup="flussonic" catchup-days="3", BOX Metall HD
+http://lobby.peaktv.name/balancer/bigteisti13/pz_Portal/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Музыкальные | Music" tvg-id="elb3594" tvg-name="BOX RURAP HD" tvg-logo="http://peaktv.su/img/logos/box/rurap.png" catchup="flussonic" catchup-days="3", BOX RURAP HD
+http://lobby.peaktv.name/balancer/bigteisti13/oz_17C/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Музыкальные | Music" tvg-id="elb4490" tvg-name="TVPlay Русский Рок HD" tvg-logo="http://peaktv.su/img/logos/tvplay/rock.png" catchup="flussonic" catchup-days="3", TVPlay Русский Рок HD
 http://lobby.peaktv.name/balancer/bigteisti10/08946918/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Музыкальные | Music" tvg-id="elb451" tvg-name="C-Live HD" tvg-logo="http://peaktv.su/img/logos/yosso_tv/c-live.png" catchup="flussonic" catchup-days="3", C-Live HD
+http://lobby.peaktv.name/balancer/bigteisti1/Y-C-LIVE/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Музыкальные | Music" tvg-name="LIBERTY DJ FHD" tvg-logo="http://peaktv.su/img/logos/liberty/music/DJ.png" catchup="flussonic" catchup-days="3", LIBERTY DJ FHD
+http://lobby.peaktv.name/balancer/bigteisti2/08946955/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Музыкальные | Music" tvg-name="LIBERTY Альтернатива FHD" catchup="flussonic" catchup-days="3", LIBERTY Альтернатива FHD
+http://lobby.peaktv.name/balancer/bigteisti3/uv_Fiber/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Музыкальные | Music" tvg-name="LIBERTY Детский FHD" catchup="flussonic" catchup-days="3", LIBERTY Детский FHD
+http://lobby.peaktv.name/balancer/bigteisti3/vw_7Star/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Музыкальные | Music" tvg-name="LIBERTY ДЖАЗ FHD" tvg-logo="http://peaktv.su/img/logos/liberty/music/jazz.png" catchup="flussonic" catchup-days="3", LIBERTY ДЖАЗ FHD
+http://lobby.peaktv.name/balancer/bigteisti2/08946958/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Музыкальные | Music" tvg-name="LIBERTY ИНДИ FHD" tvg-logo="http://peaktv.su/img/logos/liberty/music/indi.png" catchup="flussonic" catchup-days="3", LIBERTY ИНДИ FHD
+http://lobby.peaktv.name/balancer/bigteisti2/08946964/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Музыкальные | Music" tvg-name="LIBERTY Кантри FHD" catchup="flussonic" catchup-days="3", LIBERTY Кантри FHD
+http://lobby.peaktv.name/balancer/bigteisti3/wx_Force/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Музыкальные | Music" tvg-name="LIBERTY Классика FHD" catchup="flussonic" catchup-days="3", LIBERTY Классика FHD
+http://lobby.peaktv.name/balancer/bigteisti3/xy_Light/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Музыкальные | Music" tvg-name="LIBERTY К-ПОП FHD" tvg-logo="http://peaktv.su/img/logos/liberty/music/k-pop.png" catchup="flussonic" catchup-days="3", LIBERTY К-ПОП FHD
+http://lobby.peaktv.name/balancer/bigteisti2/08946959/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Музыкальные | Music" tvg-name="LIBERTY ЛАТИНО FHD" tvg-logo="http://peaktv.su/img/logos/liberty/music/latino.png" catchup="flussonic" catchup-days="3", LIBERTY ЛАТИНО FHD
+http://lobby.peaktv.name/balancer/bigteisti2/08946963/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Музыкальные | Music" tvg-name="LIBERTY МИКС МУЗЫКА FHD" tvg-logo="http://peaktv.su/img/logos/liberty/music/miks.png" catchup="flussonic" catchup-days="3", LIBERTY МИКС МУЗЫКА FHD
+http://lobby.peaktv.name/balancer/bigteisti2/08946956/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Музыкальные | Music" tvg-name="LIBERTY Музыка DE FHD" catchup="flussonic" catchup-days="3", LIBERTY Музыка DE FHD
+http://lobby.peaktv.name/balancer/bigteisti3/ab_MegaX/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Музыкальные | Music" tvg-name="LIBERTY Музыка R&amp;B FHD" catchup="flussonic" catchup-days="3", LIBERTY Музыка R&amp;B FHD
+http://lobby.peaktv.name/balancer/bigteisti3/bc_Binary/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Музыкальные | Music" tvg-name="LIBERTY РОК FHD" tvg-logo="http://peaktv.su/img/logos/liberty/music/rok.png" catchup="flussonic" catchup-days="3", LIBERTY РОК FHD
+http://lobby.peaktv.name/balancer/bigteisti2/08946957/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Музыкальные | Music" tvg-name="LIBERTY ПОП-МУЗЫКА FHD" tvg-logo="http://peaktv.su/img/logos/liberty/music/pop-music.png" catchup="flussonic" catchup-days="3", LIBERTY ПОП-МУЗЫКА FHD
+http://lobby.peaktv.name/balancer/bigteisti2/08946962/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Музыкальные | Music" tvg-name="LIBERTY ХИП-ХОП FHD" tvg-logo="http://peaktv.su/img/logos/liberty/music/hip-hop.png" catchup="flussonic" catchup-days="3", LIBERTY ХИП-ХОП FHD
+http://lobby.peaktv.name/balancer/bigteisti2/08946960/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Музыкальные | Music" tvg-name="LIBERTY ХИТЫ 90-Х FHD" tvg-logo="http://peaktv.su/img/logos/liberty/music/90hits.png" catchup="flussonic" catchup-days="3", LIBERTY ХИТЫ 90-Х FHD
+http://lobby.peaktv.name/balancer/bigteisti2/08946961/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Музыкальные | Music" tvg-name="LIBERTY Шансон FHD" catchup="flussonic" catchup-days="3", LIBERTY Шансон FHD
+http://lobby.peaktv.name/balancer/bigteisti3/yz_Vortex/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Музыкальные | Music" tvg-name="LIBERTY Электронная FHD" catchup="flussonic" catchup-days="3", LIBERTY Электронная FHD
+http://lobby.peaktv.name/balancer/bigteisti3/za_1234/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Музыкальные | Music" tvg-id="elb4590" tvg-name="Velilla TV Pop And Rock Concerts HD" tvg-logo="http://peaktv.su/img/logos/Velilla/velillapoprockconcerts.png" catchup="flussonic" catchup-days="3", Velilla TV Pop And Rock Concerts HD
 http://lobby.peaktv.name/balancer/bigteisti20/08946955/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Музыкальные | Music" tvg-name="Velilla TV Hard And Heavy Concerts HD" tvg-logo="http://peaktv.su/img/logos/Velilla/velillahardheavyconcerts.png" catchup="flussonic" catchup-days="3", Velilla TV Hard And Heavy Concerts HD
@@ -1045,6 +1563,10 @@ http://lobby.peaktv.name/balancer/bigteisti20/09946949/ZGVuaXMxMjIzfHxSR1Z1YVhOc
 http://lobby.peaktv.name/balancer/bigteisti20/08946956/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Музыкальные | Music" tvg-id="elb4576" tvg-name="Velilla TV Russiandance 90s" tvg-logo="http://peaktv.su/img/logos/Velilla/velillarussiandance90s.png" catchup="flussonic" catchup-days="3", Velilla TV Russiandance 90s
 http://lobby.peaktv.name/balancer/bigteisti20/08946973/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Музыкальные | Music" tvg-id="elb4311" tvg-name="VeleS Магнитофон" tvg-logo="http://peaktv.su/img/logos/kinoInt/veles/veles_magnitofon.png" catchup="flussonic" catchup-days="3", VeleS Магнитофон
+http://lobby.peaktv.name/balancer/bigteisti1/VELES_MAGNITOFON/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Музыкальные | Music" tvg-id="elb4305" tvg-name="VeleS Dj Set" tvg-logo="http://peaktv.su/img/logos/kinoInt/veles/veles_djset.png" catchup="flussonic" catchup-days="3", VeleS Dj Set
+http://lobby.peaktv.name/balancer/bigteisti1/VELES_DJ_SET/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Музыкальные | Music" tvg-name="First TV Hard &amp; Heavy HD", First TV Hard &amp; Heavy HD
 http://lobby.peaktv.name/balancer/bigteisti20/09946909/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Музыкальные | Music" tvg-id="elb16" tvg-name="AIVA" tvg-logo="http://peaktv.su/img/logos/music/aiva.png" catchup="flussonic" catchup-days="3", AIVA
@@ -1085,8 +1607,6 @@ http://lobby.peaktv.name/balancer/bigteisti6/08936921/ZGVuaXMxMjIzfHxSR1Z1YVhOcl
 http://lobby.peaktv.name/balancer/bigteisti6/08936922/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Музыкальные | Music" tvg-id="elb2231" tvg-name="Музыка кино International" tvg-logo="http://peaktv.su/img/logos/kinoInt/Muz_Kino_INT.png" catchup="flussonic" catchup-days="3", Музыка кино International
 http://lobby.peaktv.name/balancer/bigteisti6/08936923/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
-#EXTINF:-1 group-title="Музыкальные | Music" tvg-id="elb4305" tvg-name="VeleS Dj Set" tvg-logo="http://peaktv.su/img/logos/kinoInt/veles/veles_djset.png" catchup="flussonic" catchup-days="3", VeleS Dj Set
-http://lobby.peaktv.name/balancer/bigteisti1/VELES_DJ_SET/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Музыкальные | Music" tvg-id="elb57" tvg-name="Europa Plus HD" tvg-logo="http://peaktv.su/img/logos/music/europa-plus-tv.png" catchup="flussonic" catchup-days="3", Europa Plus HD
 http://lobby.peaktv.name/balancer/bigteisti9/EUROPAPLUS/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Казахстан | Kazakhstan" tvg-id="elb4192" tvg-name="Первый канал Евразия (KZ)" tvg-logo="http://peaktv.su/img/logos/KZ/pervy-kanal-eurasia-kz.png", Первый канал Евразия (KZ)
@@ -1103,5 +1623,9 @@ http://lobby.peaktv.name/balancer/bigteisti6/31_channel_kz/ZGVuaXMxMjIzfHxSR1Z1Y
 http://lobby.peaktv.name/balancer/bigteisti6/KTK_TV_KZ/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Казахстан | Kazakhstan" tvg-id="elb2165" tvg-name="MuzzOne (KZ)" tvg-logo="http://peaktv.su/img/logos/KZ/muzzone.png", MuzzOne (KZ)
 http://lobby.peaktv.name/balancer/bigteisti6/MUZZONE_KZ/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Казахстан | Kazakhstan" tvg-id="elb4242" tvg-name="Qazaqstan TV (KZ)" tvg-logo="http://peaktv.su/img/logos/KZ/kazakhstan.png" catchup="flussonic" catchup-days="3", Qazaqstan TV (KZ)
+http://lobby.peaktv.name/balancer/bigteisti6/QAZAQSTAN_TV_KZ/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Казахстан | Kazakhstan" tvg-id="elb4232" tvg-name="QAZAQ TV (KZ)" tvg-logo="http://peaktv.su/img/logos/KZ/kazakh-tv.png" catchup="flussonic" catchup-days="3", QAZAQ TV (KZ)
 http://lobby.peaktv.name/balancer/bigteisti6/QAZAQ_TV_KZ/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="UHD (4К)" tvg-id="elb2231" tvg-name="Rai 4K" tvg-logo="http://peaktv.su/img/logos/uhd/rai4k.png" catchup="flussonic" catchup-days="3", Rai 4K
+http://lobby.peaktv.name/balancer/bigteisti8/UHD_1_DE/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
